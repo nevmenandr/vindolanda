@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T06:55:56+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T06:55:56+00:00" />
+  <meta name="dc.modified" content="2024-08-11T07:36:21+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T07:36:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -59,14 +59,14 @@ manubot-clear-requests-cache: false
 
 
 
-
+_A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/))
 was automatically generated
-from [nevmenandr/vindolanda@a0d7c9e](https://github.com/nevmenandr/vindolanda/tree/a0d7c9e099ba0c9b94081246c8b78339ce4fb560)
+from [nevmenandr/vindolanda@075bc5e](https://github.com/nevmenandr/vindolanda/tree/075bc5e58850a9228f56b97aa88b586bfddf8ba5)
 on August 11, 2024.
 </em></small>
 
@@ -103,7 +103,7 @@ Boris Orekhov \<nevmenandr@gmail.com\>.
 
 ## Abstract {.page_break_before}
 
-Vindolanda is an open-source and free font that reproduces the letterforms in Latin manuscripts found during excavations at a Roman auxiliary fort in northern England. Most of the letters in this font copy the writing on the wooden tablets from Vindolanda, i.e. early Roman cursive, but are in strict modern sans-serif, which allows you to combine the originality of the lettering in manuscript documents with the beauty of regularity in the typographic era. The font can be used for more authentic reproduction in books and on websites of texts written in Roman cursive, as well as for educational purposes to practice reading texts written in Roman cursive. Uppercase and lowercase letters are not distinguished. In addition to the letters of the Latin alphabet, the font contains the letters of the Cyrillic alphabet and the extended Cyrillic alphabet for minor languages. These letters were created for entertainment purposes and have no historical basis.
+Vindolanda is an open-source and free font that reproduces the letterforms in Latin manuscripts found during excavations at a Roman auxiliary fort in northern England. Most of the letters in this font copy the writing on the wooden tablets from Vindolanda, i.e. early Roman cursive, but in a strict modern sans-serif, which allows you to combine the originality of the lettering in manuscript documents with the beauty of regularity in the typographic era. The font can be used for more authentic reproduction in books and on websites of texts written in Roman cursive, as well as for educational purposes to practice reading texts written in Roman cursive. Uppercase and lowercase letters are not distinguished. In addition to the letters of the Latin alphabet, the font contains the letters of the Cyrillic alphabet and the extended Cyrillic alphabet for minor languages. These letters were created for entertainment purposes and have no historical basis.
 
 
 
@@ -150,9 +150,15 @@ This fancy Cyrillic was created out of a desire to make the typeface more usable
 
 ## The shape of the letters
 
+### Overview
+
+### Letters
+
 ## Kerning
 
 ## Examples
+
+## Cyrillic
 
 ## Download
 
@@ -249,17 +255,9 @@ Bare URL link: <https://manubot.org>
 
 ## Citations
 
-Citation by DOI [@doi:10.7554/eLife.32822].
-
-Citation by PubMed Central ID [@pmc:PMC6103790].
-
-Citation by PubMed ID [@pubmed:30718888].
-
 Citation by Wikidata ID [@wikidata:Q56458321].
 
 Citation by ISBN [@isbn:9780262517638].
-
-Citation by URL [@{https://greenelab.github.io/meta-review/}].
 
 Citation by alias [@deep-review].
 
@@ -361,16 +359,6 @@ Table: A table too wide to fit within page.
 
 Table: A table with merged cells using the `attributes` plugin.
 {#tbl: merged-cells}
-
-## Equations
-
-A LaTeX equation:
-
-$$\int_0^\infty e^{-x^2} dx=\frac{\sqrt{\pi}}{2}$$ {#eq:regular-equation}
-
-An equation too long to fit within page:
-
-$$x = a + b + c + d + e + f + g + h + i + j + k + l + m + n + o + p + q + r + s + t + u + v + w + x + y + z + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9$$ {#eq:long-equation}
 
 ## Special
 
