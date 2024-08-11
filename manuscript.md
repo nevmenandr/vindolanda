@@ -1,5 +1,5 @@
 ---
-title: 'Vindolanda: a font that mimics ancient Latin scripts'
+title: 'Vindolanda: a font that reproduces old Roman cursive'
 keywords:
 - latin language
 - font
@@ -15,15 +15,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Vindolanda: a font that mimics ancient Latin scripts" />
-  <meta name="citation_title" content="Vindolanda: a font that mimics ancient Latin scripts" />
-  <meta property="og:title" content="Vindolanda: a font that mimics ancient Latin scripts" />
-  <meta property="twitter:title" content="Vindolanda: a font that mimics ancient Latin scripts" />
+  <meta name="dc.title" content="Vindolanda: a font that reproduces old Roman cursive" />
+  <meta name="citation_title" content="Vindolanda: a font that reproduces old Roman cursive" />
+  <meta property="og:title" content="Vindolanda: a font that reproduces old Roman cursive" />
+  <meta property="twitter:title" content="Vindolanda: a font that reproduces old Roman cursive" />
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T05:00:58+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T05:00:58+00:00" />
+  <meta name="dc.modified" content="2024-08-11T06:55:56+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T06:55:56+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -31,7 +31,7 @@ header-includes: |
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
   <meta name="citation_author" content="Boris Orekhov" />
-  <meta name="citation_author_institution" content="HSE University" />
+  <meta name="citation_author_institution" content="HSE University, School of Linguistics, Moscow" />
   <meta name="citation_author_orcid" content="0000-0002-9099-0436" />
   <meta name="twitter:creator" content="@nevmenandr" />
   <link rel="canonical" href="https://nevmenandr.github.io/vindolanda/" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/a0d7c9e099ba0c9b94081246c8b78339ce4fb560/))
 was automatically generated
-from [nevmenandr/vindolanda@7add3f8](https://github.com/nevmenandr/vindolanda/tree/7add3f8783a2fced278023eafbb2255410f77a7b)
+from [nevmenandr/vindolanda@a0d7c9e](https://github.com/nevmenandr/vindolanda/tree/a0d7c9e099ba0c9b94081246c8b78339ce4fb560)
 on August 11, 2024.
 </em></small>
 
@@ -88,7 +88,7 @@ on August 11, 2024.
     [\@nevmenandr@mastodon.social](https://mastodon.social/@nevmenandr)
     <br>
   <small>
-     HSE University
+     HSE University, School of Linguistics, Moscow
   </small>
 
 
@@ -107,13 +107,56 @@ Vindolanda is an open-source and free font that reproduces the letterforms in La
 
 
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
+## Introduction
 
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
+This document presents a typeface that reproduces the appearance of the Roman cursive in its ancient version. It is modeled on the letters read on wooden tablets found during excavations in Vindolanda
 
-## Basic formatting
+> The anaerobic conditions at the Roman fort of Vindolanda, close to Hadrian's Wall in northern Britain, have famously preserved a variety of finds made of organic materials, including wooden writing tablets and a pair of leather boxing gloves. 
+[@doi:10.15184/aqy.2023.11]
+
+The most famous is [tablet 291](https://romaninscriptionsofbritain.org/inscriptions/TabVindol291) with a birthday invitation from Claudia Severa. Her letters are mainly used as a model for the font.
+
+> The elegant script in which this letter is written is also probably to be recognised in 243, 244 and 248. The letters are slim, with marked ascenders and descenders, and very little use of ligature. [@{https://romaninscriptionsofbritain.org/inscriptions/TabVindol291}]
+
+The goal of the font is to combine the specificity of lettering in handwritten documents with the beauty of regularity in the typographic era. In this sense, the task of creating a font is similar to the one pursued in the creation of the antiqua. In the era of creating typefaces for early book printing, typographers also focused on how letters were handwritten, but the letters were uniform and didn't look too varied. 
+
+Vindolanda font is a modern sans-serif font that is designed in a unified style. Its character is determined by the antiquity and manuscript character of the prototype @fig:letter-forms, and at the same time by the opposite trend: the modern appearance of mass-produced fonts.
+
+![
+**Letter-forms in the tablets.**
+Image ownership: © Society for the Promotion of Roman Studies.
+](./images/fig11.gif){#fig:letter-forms}
+
+
+B. Voronetsky and E. Kuznetsov E. say on ancient Greek writings:
+> It is unusually simple, built sparingly clear lines of uniform thickness. [@voronetsky-kuznetsov]
+
+I'm aiming for the same stylistic guidelines when I'm working on the Vindolanda font.
+
+They also write about the Latin font: 
+
+> Roman font was not something uniform and constant: it was noticeably modified and existed in various forms. 
+> Its basic and original form is the capital font (lat. *caitalis* -- large, main, solid), also called majusculus (lat. *majusculis* -- somewhat larger), because it consists exclusively of capital (large) letters. An inscription made by majusculus is placed strictly between two horizontals, without a single line going beyond the line formed by them. 
+> Majuscule is, first of all, the font of solemn writings carved on columns, triumphal arches and walls. (...) Its technology (...) is careful slow carving in a stone slab along a predetermined contour. (...) He is clear, harmonious and stately. (...) Another variant of the handwritten Latin script was cursive (lat. currêre -- to run; running, means slanted). In cursive, letters were simplified, joined together, and lost some details. Quickness was achieved at the cost of loss: clarity, clarity, beauty suffered. Therefore, italics (in its various forms) was used only for business records and letters.
+
+Vindolanda returns clarity and precision of Greek writings to Roman cursive.
+
+Thus, it is not necessary to appeal to modernity to justify the need for this typeface.
+
+In addition to the letters of the Latin alphabet, the font contains the letters of the Cyrillic alphabet and the extended Cyrillic alphabet for minor languages such as Bashkir, Tatar and Udmurt. These letters were created for entertainment purposes and have no historical basis. They represent only my fantasies on how the Cyrillic alphabet based on Roman cursive could have been look like. Nevertheless, the Cyrillic letters are based on the Latin letters in one way or another. How they were designed is explained in a special section in this document. 
+
+This fancy Cyrillic was created out of a desire to make the typeface more usable and out of a desire to popularize the Roman cursive lettering.
+
+
+## The shape of the letters
+
+## Kerning
+
+## Examples
+
+## Download
+
+## Source project
 
 **Bold** __text__
 
@@ -245,13 +288,6 @@ Equation @eq:long-equation
 
 ## Quotes and code
 
-> Quoted text
-
-> Quoted block of text
->
-> Two roads diverged in a wood, and I—  
-> I took the one less traveled by,  
-> And that has made all the difference.
 
 Code `in the middle` of normal text, aka `inline code`.
 
