@@ -1,14 +1,13 @@
 ---
-title: Manuscript Title
+title: 'Vindolanda: a font that mimics ancient Latin scripts'
 keywords:
-- markdown
-- publishing
-- manubot
+- latin language
+- font
+- roman cursive
 lang: en-US
 date-meta: '2024-08-11'
 author-meta:
-- John Doe
-- Jane Roe
+- Boris Orekhov
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -16,38 +15,34 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Vindolanda: a font that mimics ancient Latin scripts" />
+  <meta name="citation_title" content="Vindolanda: a font that mimics ancient Latin scripts" />
+  <meta property="og:title" content="Vindolanda: a font that mimics ancient Latin scripts" />
+  <meta property="twitter:title" content="Vindolanda: a font that mimics ancient Latin scripts" />
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T04:04:28+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T04:04:28+00:00" />
+  <meta name="dc.modified" content="2024-08-11T04:26:08+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T04:26:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Boris Orekhov" />
+  <meta name="citation_author_institution" content="HSE University" />
+  <meta name="citation_author_orcid" content="0000-0002-9099-0436" />
+  <meta name="twitter:creator" content="@nevmenandr" />
   <link rel="canonical" href="https://nevmenandr.github.io/vindolanda/" />
   <meta property="og:url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta property="twitter:url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +64,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/957ff8ebf04f1051aedb3fd17677e19ff2286b7a/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/))
 was automatically generated
-from [nevmenandr/vindolanda@957ff8e](https://github.com/nevmenandr/vindolanda/tree/957ff8ebf04f1051aedb3fd17677e19ff2286b7a)
+from [nevmenandr/vindolanda@121ec8d](https://github.com/nevmenandr/vindolanda/tree/121ec8d2fc710f641a53afa96672007dc75d48fd)
 on August 11, 2024.
 </em></small>
 
@@ -81,38 +76,26 @@ on August 11, 2024.
 
 
 
-+ **John Doe**
-  <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
-    <br>
-  <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**
++ **Boris Orekhov**
   ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-9099-0436](https://orcid.org/0000-0002-9099-0436)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [nevmenandr](https://github.com/nevmenandr)
+    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
+    [nevmenandr](https://twitter.com/nevmenandr)
+    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
+    [\@nevmenandr@mastodon.social](https://mastodon.social/@nevmenandr)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     HSE University
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/nevmenandr/vindolanda/issues)
 or email to
-Jane Roe \<jane.roe@whatever.edu\>.
+Boris Orekhov \<nevmenandr@gmail.com\>.
 
 
 :::
