@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+title: Vindolanda: a font that reproduces old Roman cursive
+ >-
+  If you use this software, please cite it using the metadata
+  from this file.
+type: software
+authors:
+  - given-names: Boris
+    family-names: Orekhov
+    email: nevmenandr@gmail.com
+    affiliation: HSE University
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.13293622
+repository-code: 'https://github.com/nevmenandr/vindolanda'
+abstract: >-
+  Vindolanda is an open-source and free font that reproduces 
+  the letterforms in Latin manuscripts found during excavations 
+  at a Roman auxiliary fort in northern England. Most of the 
+  letters in this font copy the writing on the wooden tablets 
+  from Vindolanda, i.e. early Roman cursive, but in a strict 
+  modern sans-serif, which allows you to combine the 
+  originality of the lettering in manuscript documents with 
+  the beauty of regularity in the typographic era.
+keywords:
+  - font
+  - latin language
+  - roman cursive
+license: GPL-1.0
+commit: ae9fe728c71d1711af144203602a89e5ba3623c1
+version: 1.1.0
+date-released: '2024-08-11'
