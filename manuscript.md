@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T22:22:34+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T22:22:34+00:00" />
+  <meta name="dc.modified" content="2024-08-11T23:27:11+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T23:27:11+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/))
 was automatically generated
-from [nevmenandr/vindolanda@b9a9f00](https://github.com/nevmenandr/vindolanda/tree/b9a9f00cf7191baf298cee28cc8245119ded1786)
+from [nevmenandr/vindolanda@99416d7](https://github.com/nevmenandr/vindolanda/tree/99416d76c1463282197e93d9e6861032d3b4b974)
 on August 11, 2024.
 </em></small>
 
@@ -106,6 +106,9 @@ Boris Orekhov \<nevmenandr@gmail.com\>.
 Vindolanda is an open-source and free font that reproduces the letterforms in Latin manuscripts found during excavations at a Roman auxiliary fort in northern England. Most of the letters in this font copy the writing on the wooden tablets from Vindolanda, i.e. early Roman cursive, but in a strict modern sans-serif, which allows you to combine the originality of the lettering in manuscript documents with the beauty of regularity in the typographic era. The font can be used for more authentic reproduction in books and on websites of texts written in Roman cursive, as well as for educational purposes to practice reading texts written in Roman cursive. Uppercase and lowercase letters are not distinguished. In addition to the letters of the Latin alphabet, the font contains the letters of the Cyrillic alphabet and the extended Cyrillic alphabet for minor languages. These letters were created for entertainment purposes and have no historical basis.
 
 
+
+<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
 
 ## Introduction
 
@@ -150,6 +153,10 @@ This fancy Cyrillic was created out of a desire to make the typeface more usable
 
 The font can be used for more authentic reproduction in books and on websites of texts written in Roman cursive, as well as for educational purposes to practice reading texts written in Roman cursive. The font can also serve as a secret spelling for kids who want to start their own private club, like in the "Dead Poets Society" movie.
 
+[
+<i class="fas fa-ban fa-lg"></i> **Lingua Latina**<br>
+Vindolanda est typus aperti fontis et liber qui formas litterarum in manuscriptis Latinis, quae durante excavations in castris auxiliariis Romanis in Anglia septentrionali inventae sunt, reproducit. Plurimae litterae in hoc fonte scribendi exempla ex tabulis ligneis Vindolandae, id est, cursivum Romanum antiquum, imitantur, sed in stricte moderno sans-serif, quod permittit originalitatem litterarum in documentis manuscriptis cum pulchritudine regularitatis in aetate typographica coniungere. Typus adhiberi potest ad veram reproductionem in libris et in paginis interretialibus textuum in cursivo Romano scriptorum, necnon ad usus educativos ad exercitandum legendi textus in cursivo Romano scriptos. Litterae maiusculae et minusculae non distinguuntur.
+]{.banner .lightgrey}
 
 ## The shape of the letters
 
@@ -255,19 +262,37 @@ Now let's try to type an original birthday invitation from Vindolanda's tablet @
 
 ## Cyrillic
 
-I have no idea what Cyrillic characters might look like in this font. The Slavs would not have a written language until 700 years later. Although there is a place in the Slavic area with similar soil features that allow ancient manuscripts to be preserved for archaeologists [@isbn:9789004389403], the writing technique in Novgorod was different: in Vindolanda they wrote with ink on wooden tablets, while in Novgorod the letters were scratched into the bark of the tree [@doi:10.4000/res.3763]. Therefore, direct analogies in the appearance of letters are impossible. So it's all pure fantasy. 
+I have no idea what Cyrillic characters might look like in this font. The Slavs would not have a written language until 700 years later. Although there is a place in the Slavic area with similar soil features that allow ancient manuscripts to be preserved for archaeologists [@isbn:9789004389403], the writing technique in Novgorod was different: in Vindolanda they wrote with ink on wooden tablets, while in Novgorod the letters were scratched into the bark of the tree [@doi:10.4000/res.3763]. Therefore, direct analogies in the appearance of letters are impossible. So it's all pure fantasy @fig:cyr. 
+
+![
+**Fantasy Cyrillic.**
+](./images/cyr.png){#fig:cyr}
+
+В in the mirror image of Б, Г goes back to С, as it has historically, Д is two mirrored G's, the other letters are simply drawn in single sharp strokes.
 
 ## License and terms of use
 
-Vindolanda is absoltely free and open. Moreover, you can not only use the font (including for commercial purposes), but also [work with the sources](#download) and modify it. 
+
+[
+<i class="fas fa-info-circle fa-lg"></i> **License and terms of use**<br>
+Vindolanda is absoltely *free and open*. Moreover, you can not only use the font (including for commercial purposes), but also [work with the sources](#download) and modify it. 
+]{.banner .lightblue}
 
 ## Download
+
+<i class="fas fa-cloud-download"></i>
 
 ## Source project
 
 ## Acknowledgements
 
+I am grateful to Maria Timoschuk, who introduced me to the Vindolanda tablets, and who supports me in my interest in Latin.
+
 ## My other fonts
+
+<i class="fas fa-font"></i> [18cent](https://nevmenandr.github.io/18cent-font/) A typeface based on a historical typeface used in 18th century typography, but was sought after as an illustration of brokenness and lack of mental balance in the credits of a movie about [Tchaikovsky's wife](https://www.imdb.com/title/tt17538510/).
+
+<i class="fas fa-font"></i> [Font and script for a constructed language for the birthday of M. Danieliou](https://github.com/nevmenandr/artlang-dani-el?tab=readme-ov-file#%D1%88%D1%80%D0%B8%D1%84%D1%82)
 
 **Bold** __text__
 
@@ -466,27 +491,7 @@ Available background colors for text, images, code, banners, etc:
 `blue`{.blue}
 `purple`{.purple}
 
-Using the [Font Awesome](https://fontawesome.com/) icon set:
 
-<!-- include the Font Awesome library, per: https://fontawesome.com/start -->
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
-
-<i class="fas fa-check"></i> <i class="fas fa-question"></i> <i class="fas fa-star"></i> <i class="fas fa-bell"></i> <i class="fas fa-times-circle"></i> <i class="fas fa-ellipsis-h"></i>
-
-[
-<i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
-useful for *general information* - [manubot.org](https://manubot.org/)
-]{.banner .lightgrey}
-
-[
-<i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
-useful for *important information* - [manubot.org](https://manubot.org/)
-]{.banner .lightblue}
-
-[
-<i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
-useful for *warnings* - [manubot.org](https://manubot.org/)
-]{.banner .lightred}
 
 
 ## References {.page_break_before}
