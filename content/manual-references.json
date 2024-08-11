@@ -1,22 +1,27 @@
 [
 {
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
+  "id": "voronetsky-kuznetsov",
+  "type": "book",
+  "title": "Font",
   "issued": {
     "date-parts": [
       [
-        2019
+        1975
       ]
     ]
   },
   "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
-    }
-  ]
+     {
+             "family": "Voronetsky",
+             "given": "Boris"
+     },
+     {
+             "family": "Kuznetsov",
+             "given": "Erast"
+     }
+],
+"publisher": "Artist of RSFSR",
+"publisher-place": "Leningrad",
+"language": "ru",
 }
 ]
