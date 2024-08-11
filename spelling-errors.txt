@@ -26,6 +26,9 @@ enim
 esse
 Excepteur
 exercitation
+fi
+fontace
+fontface
 fugiat
 HSE
 incididunt
@@ -51,6 +54,7 @@ officia
 Orekhov
 Pandoc’s
 pariatur
+permtations
 proident
 qui
 quis

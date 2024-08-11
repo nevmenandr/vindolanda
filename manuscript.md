@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T08:29:52+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T08:29:52+00:00" />
+  <meta name="dc.modified" content="2024-08-11T08:54:01+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T08:54:01+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/b906c810675d23696257d682e6cd8f525f436052/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b906c810675d23696257d682e6cd8f525f436052/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b906c810675d23696257d682e6cd8f525f436052/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/b906c810675d23696257d682e6cd8f525f436052/))
 was automatically generated
-from [nevmenandr/vindolanda@8cc9bea](https://github.com/nevmenandr/vindolanda/tree/8cc9bead049e85b53c6e46372ea12333dbdd62a8)
+from [nevmenandr/vindolanda@b906c81](https://github.com/nevmenandr/vindolanda/tree/b906c810675d23696257d682e6cd8f525f436052)
 on August 11, 2024.
 </em></small>
 
@@ -153,9 +153,26 @@ This fancy Cyrillic was created out of a desire to make the typeface more usable
 
 ### Overview
 
-Traditionally, letters are drawn on the background of a grid of 16 squares proposed by A. Dürer to show their correct proportions. But the very nature of cursive contradicts this idea.
+Traditionally, letters are drawn on the background of a grid of 16 squares proposed by A. Dürer to show their correct proportions @fig:grid. But the very nature of cursive contradicts this idea.
+
+
+![
+**Letter F in Vindolanda.**.
+](./images/grid.png){#fig:grid}
+
+Vindolanda is a disproportionate, fractured typeface in which the free spirit of hand-drawn letters is slightly reduced to the order we know from book printing. And it is in these fractured lines that the archaic beauty of this typeface lies. The result is something between ancient runes and the constructed writings of space civilizations in sci-fi movies.
+
+![
+**Letter permtations, a fragment.**
+](./images/overview.png){#fig:overview}
 
 ### Letters
+
+Let's compare original letters from Vindolanda and letters from Vindolanda fontace, starting with the letter A @fig:a.
+
+![
+**Letter A from tablet and from the fontface.**.
+](./images/a.png){#fig:a}
 
 ## Kerning
 
