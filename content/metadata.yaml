@@ -1,30 +1,21 @@
 ---
-title: "Manuscript Title"
-date: null  # Defaults to date generated, but can specify like '2022-10-31'.
+title: "Vindolanda: a font that mimics ancient Latin scripts"
+date: '2024-08-11' 
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - latin language
+  - font
+  - roman cursive
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
+  - github: nevmenandr
+    name: Boris Orekhov
+    initials: BO
+    orcid: 0000-0002-9099-0436
+    twitter: nevmenandr
+    mastodon: nevmenandr
     mastodon-server: mastodon.social
-    email: john.doe@something.com
+    email: nevmenandr@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - HSE University
     corresponding: true
+    
