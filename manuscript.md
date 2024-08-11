@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T04:26:08+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T04:26:08+00:00" />
+  <meta name="dc.modified" content="2024-08-11T05:00:58+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T05:00:58+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,15 +64,15 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/121ec8d2fc710f641a53afa96672007dc75d48fd/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/7add3f8783a2fced278023eafbb2255410f77a7b/))
 was automatically generated
-from [nevmenandr/vindolanda@121ec8d](https://github.com/nevmenandr/vindolanda/tree/121ec8d2fc710f641a53afa96672007dc75d48fd)
+from [nevmenandr/vindolanda@7add3f8](https://github.com/nevmenandr/vindolanda/tree/7add3f8783a2fced278023eafbb2255410f77a7b)
 on August 11, 2024.
 </em></small>
 
 
 
-## Authors
+## Author
 
 
 
@@ -103,6 +103,7 @@ Boris Orekhov \<nevmenandr@gmail.com\>.
 
 ## Abstract {.page_break_before}
 
+Vindolanda is an open-source and free font that reproduces the letterforms in Latin manuscripts found during excavations at a Roman auxiliary fort in northern England. Most of the letters in this font copy the writing on the wooden tablets from Vindolanda, i.e. early Roman cursive, but are in strict modern sans-serif, which allows you to combine the originality of the lettering in manuscript documents with the beauty of regularity in the typographic era. The font can be used for more authentic reproduction in books and on websites of texts written in Roman cursive, as well as for educational purposes to practice reading texts written in Roman cursive. Uppercase and lowercase letters are not distinguished. In addition to the letters of the Latin alphabet, the font contains the letters of the Cyrillic alphabet and the extended Cyrillic alphabet for minor languages. These letters were created for entertainment purposes and have no historical basis.
 
 
 
