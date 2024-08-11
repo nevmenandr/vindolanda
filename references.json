@@ -1,178 +1,5 @@
 [
   {
-    "publisher": "The Royal Society",
-    "issue": "141",
-    "abstract": "<jats:p>Deep learning describes a class of machine learning algorithms that are capable of combining raw inputs into layers of intermediate features. These algorithms have recently shown impressive results across a variety of domains. Biology and medicine are data-rich disciplines, but the data are complex and often ill-understood. Hence, deep learning techniques may be particularly well suited to solve problems of these fields. We examine applications of deep learning to a variety of biomedical problems—patient classification, fundamental biological processes and treatment of patients—and discuss whether deep learning will be able to transform these tasks or if the biomedical sphere poses unique challenges. Following from an extensive literature review, we find that deep learning has yet to revolutionize biomedicine or definitively resolve any of the most pressing challenges in the field, but promising advances have been made on the prior state of the art. Even though improvements over previous baselines have been modest in general, the recent progress indicates that deep learning methods will provide valuable means for speeding up or aiding human investigation. Though progress has been made linking a specific neural network's prediction to input features, understanding how users should interpret these models to make testable hypotheses about the system under study remains an open challenge. Furthermore, the limited amount of labelled data for training presents problems in some domains, as do legal and privacy constraints on work with sensitive health records. Nonetheless, we foresee deep learning enabling changes at both bench and bedside with the potential to transform several areas of biology and medicine.</jats:p>",
-    "DOI": "10.1098/rsif.2017.0387",
-    "type": "article-journal",
-    "page": "20170387",
-    "source": "Crossref",
-    "title": "Opportunities and obstacles for deep learning in biology and medicine",
-    "volume": "15",
-    "author": [
-      {
-        "given": "Travers",
-        "family": "Ching"
-      },
-      {
-        "given": "Daniel S.",
-        "family": "Himmelstein"
-      },
-      {
-        "given": "Brett K.",
-        "family": "Beaulieu-Jones"
-      },
-      {
-        "given": "Alexandr A.",
-        "family": "Kalinin"
-      },
-      {
-        "given": "Brian T.",
-        "family": "Do"
-      },
-      {
-        "given": "Gregory P.",
-        "family": "Way"
-      },
-      {
-        "given": "Enrico",
-        "family": "Ferrero"
-      },
-      {
-        "given": "Paul-Michael",
-        "family": "Agapow"
-      },
-      {
-        "given": "Michael",
-        "family": "Zietz"
-      },
-      {
-        "given": "Michael M.",
-        "family": "Hoffman"
-      },
-      {
-        "given": "Wei",
-        "family": "Xie"
-      },
-      {
-        "given": "Gail L.",
-        "family": "Rosen"
-      },
-      {
-        "given": "Benjamin J.",
-        "family": "Lengerich"
-      },
-      {
-        "given": "Johnny",
-        "family": "Israeli"
-      },
-      {
-        "given": "Jack",
-        "family": "Lanchantin"
-      },
-      {
-        "given": "Stephen",
-        "family": "Woloszynek"
-      },
-      {
-        "given": "Anne E.",
-        "family": "Carpenter"
-      },
-      {
-        "given": "Avanti",
-        "family": "Shrikumar"
-      },
-      {
-        "given": "Jinbo",
-        "family": "Xu"
-      },
-      {
-        "given": "Evan M.",
-        "family": "Cofer"
-      },
-      {
-        "given": "Christopher A.",
-        "family": "Lavender"
-      },
-      {
-        "given": "Srinivas C.",
-        "family": "Turaga"
-      },
-      {
-        "given": "Amr M.",
-        "family": "Alexandari"
-      },
-      {
-        "given": "Zhiyong",
-        "family": "Lu"
-      },
-      {
-        "given": "David J.",
-        "family": "Harris"
-      },
-      {
-        "given": "Dave",
-        "family": "DeCaprio"
-      },
-      {
-        "given": "Yanjun",
-        "family": "Qi"
-      },
-      {
-        "given": "Anshul",
-        "family": "Kundaje"
-      },
-      {
-        "given": "Yifan",
-        "family": "Peng"
-      },
-      {
-        "given": "Laura K.",
-        "family": "Wiley"
-      },
-      {
-        "given": "Marwin H. S.",
-        "family": "Segler"
-      },
-      {
-        "given": "Simina M.",
-        "family": "Boca"
-      },
-      {
-        "given": "S. Joshua",
-        "family": "Swamidass"
-      },
-      {
-        "given": "Austin",
-        "family": "Huang"
-      },
-      {
-        "given": "Anthony",
-        "family": "Gitter"
-      },
-      {
-        "given": "Casey S.",
-        "family": "Greene"
-      }
-    ],
-    "container-title": "Journal of The Royal Society Interface",
-    "language": "en",
-    "issued": {
-      "date-parts": [
-        [
-          2018,
-          4
-        ]
-      ]
-    },
-    "URL": "https://doi.org/gddkhn",
-    "container-title-short": "J. R. Soc. Interface.",
-    "PMCID": "PMC5938574",
-    "PMID": "29618526",
-    "id": "PZMP42Ak",
-    "note": "This CSL Item was generated by Manubot v0.6.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.1098/rsif.2017.0387"
-  },
-  {
     "publisher": "Public Library of Science (PLoS)",
     "issue": "6",
     "DOI": "10.1371/journal.pcbi.1007128",
@@ -272,86 +99,63 @@
     "note": "This CSL Item was generated by Manubot v0.6.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.15184/aqy.2023.11"
   },
   {
-    "publisher": "eLife Sciences Publications, Ltd",
-    "abstract": "<jats:p>The website Sci-Hub enables users to download PDF versions of scholarly articles, including many articles that are paywalled at their journal’s site. Sci-Hub has grown rapidly since its creation in 2011, but the extent of its coverage has been unclear. Here we report that, as of March 2017, Sci-Hub’s database contains 68.9% of the 81.6 million scholarly articles registered with Crossref and 85.1% of articles published in toll access journals. We find that coverage varies by discipline and publisher, and that Sci-Hub preferentially covers popular, paywalled content. For toll access articles, we find that Sci-Hub provides greater coverage than the University of Pennsylvania, a major research university in the United States. Green open access to toll access articles via licit services, on the other hand, remains quite limited. Our interactive browser at https://greenelab.github.io/scihub allows users to explore these findings in more detail. For the first time, nearly all scholarly literature is available gratis to anyone with an Internet connection, suggesting the toll access business model may become unsustainable.</jats:p>",
-    "DOI": "10.7554/elife.32822",
+    "publisher": "OpenEdition",
+    "issue": "3",
+    "DOI": "10.4000/res.3763",
     "type": "article-journal",
+    "page": "365-368",
     "source": "Crossref",
-    "title": "Sci-Hub provides access to nearly all scholarly literature",
-    "volume": "7",
+    "title": "Simeon Dekker, Old Russian Birchbark Letters: A Pragmatic Approach ",
+    "volume": "91",
     "author": [
       {
-        "given": "Daniel S",
-        "family": "Himmelstein"
-      },
-      {
-        "given": "Ariel Rodriguez",
-        "family": "Romero"
-      },
-      {
-        "given": "Jacob G",
-        "family": "Levernier"
-      },
-      {
-        "given": "Thomas Anthony",
-        "family": "Munro"
-      },
-      {
-        "given": "Stephen Reid",
-        "family": "McLaughlin"
-      },
-      {
-        "given": "Bastian",
-        "family": "Greshake Tzovaras"
-      },
-      {
-        "given": "Casey S",
-        "family": "Greene"
+        "given": "Pierre",
+        "family": "Gonneau"
       }
     ],
-    "container-title": "eLife",
-    "language": "en",
+    "container-title": "Revue des études slaves",
     "issued": {
       "date-parts": [
         [
-          2018,
-          3,
-          1
+          2020,
+          11,
+          15
         ]
       ]
     },
-    "URL": "https://doi.org/ckcj",
-    "PMCID": "PMC5832410",
-    "PMID": "29424689",
-    "id": "IhliSZDo",
-    "note": "This CSL Item was generated by Manubot v0.6.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.7554/elife.32822"
+    "URL": "https://doi.org/gt6s5z",
+    "container-title-short": "res",
+    "id": "XOffw4mt",
+    "note": "This CSL Item was generated by Manubot v0.6.1 from its persistent identifier (standard_id).\nstandard_id: doi:10.4000/res.3763"
   },
   {
-    "id": "zBPP9YKu",
+    "id": "16Iud71ot",
     "type": "book",
-    "call-number": "Z286.O63 S83 2012",
-    "collection-title": "MIT Press essential knowledge series",
-    "event-place": "Cambridge, Mass",
-    "ISBN": "9780262517638",
-    "note": "OCLC: ocn754518563\nThis CSL Item was generated by Manubot v0.6.1 from its persistent identifier (standard_id).\nstandard_id: isbn:9780262517638",
-    "number-of-pages": "242",
-    "publisher": "MIT Press",
-    "publisher-place": "Cambridge, Mass",
+    "call-number": "CN1063.N6 S33 2019",
+    "collection-number": "volume 43",
+    "collection-title": "Studies in Slavic and general linguistics",
+    "event-place": "Leiden ; Boston",
+    "ISBN": "9789004389403",
+    "number-of-pages": "212",
+    "publisher": "Brill",
+    "publisher-place": "Leiden ; Boston",
     "source": "Library of Congress ISBN",
-    "title": "Open access",
+    "title": "Voices on birchbark: everyday communication in medieval Russia",
+    "title-short": "Voices on birchbark",
     "author": [
       {
-        "family": "Suber",
-        "given": "Peter"
+        "family": "Schaeken",
+        "given": "J."
       }
     ],
     "issued": {
       "date-parts": [
         [
-          "2012"
+          "2019"
         ]
       ]
-    }
+    },
+    "note": "This CSL Item was generated by Manubot v0.6.1 from its persistent identifier (standard_id).\nstandard_id: isbn:9789004389403"
   },
   {
     "source": "PubMed",

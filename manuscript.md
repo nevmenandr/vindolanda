@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T21:08:52+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T21:08:52+00:00" />
+  <meta name="dc.modified" content="2024-08-11T22:22:34+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T22:22:34+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/b9a9f00cf7191baf298cee28cc8245119ded1786/))
 was automatically generated
-from [nevmenandr/vindolanda@ae9fe72](https://github.com/nevmenandr/vindolanda/tree/ae9fe728c71d1711af144203602a89e5ba3623c1)
+from [nevmenandr/vindolanda@b9a9f00](https://github.com/nevmenandr/vindolanda/tree/b9a9f00cf7191baf298cee28cc8245119ded1786)
 on August 11, 2024.
 </em></small>
 
@@ -217,7 +217,15 @@ Letters U and V are the same.
 **Letters from tablet and from the fontface.** 3/3
 ](./images/letters3.png){#fig:letters3}
 
+The letters x and y are very rare, I have not been able to find them on Vindolanda plates. But I was able to find one use of the letter x @fig:x. They all came into the Latin alphabet from the Greek alphabet, and letters in Vindolanda did not need scholarly Greek words. Letters were used to solve everyday problems there. 
+
+![
+**Letter X from tablet and from the fontface.**
+](./images/x.png){#fig:x}
+
 ## Kerning
+
+Not only should the letters be similar to the original writing, they should also look good next to each other, without leaving gaps or overlapping. Kerning is used for this purpose. The appearance of the letters is different from the usual ones, so regular kerning pairs could not be used.
 
 ## Examples
 
@@ -245,15 +253,19 @@ Now let's try to type an original birthday invitation from Vindolanda's tablet @
 **Birthday Invitation of Sulpicia Lepidina.**
 ](./images/severa.png){#fig:severa}
 
-
-
 ## Cyrillic
 
+I have no idea what Cyrillic characters might look like in this font. The Slavs would not have a written language until 700 years later. Although there is a place in the Slavic area with similar soil features that allow ancient manuscripts to be preserved for archaeologists [@isbn:9789004389403], the writing technique in Novgorod was different: in Vindolanda they wrote with ink on wooden tablets, while in Novgorod the letters were scratched into the bark of the tree [@doi:10.4000/res.3763]. Therefore, direct analogies in the appearance of letters are impossible. So it's all pure fantasy. 
+
 ## License and terms of use
+
+Vindolanda is absoltely free and open. Moreover, you can not only use the font (including for commercial purposes), but also [work with the sources](#download) and modify it. 
 
 ## Download
 
 ## Source project
+
+## Acknowledgements
 
 ## My other fonts
 
@@ -332,16 +344,7 @@ Bare URL link: <https://manubot.org>
 
 Citation by Wikidata ID [@wikidata:Q56458321].
 
-Citation by ISBN [@isbn:9780262517638].
-
-Citation by alias [@deep-review].
-
-Multiple citations can be put inside the same set of brackets [@doi:10.7554/eLife.32822; @deep-review; @isbn:9780262517638].
 Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
-
-Citation tags (i.e. aliases) can be defined in their own paragraphs using Markdown's reference link syntax:
-
-[@deep-review]: doi:10.1098/rsif.2017.0387
 
 ## Referencing figures, tables, equations
 
@@ -364,24 +367,7 @@ Equation @eq:long-equation
 
 Code `in the middle` of normal text, aka `inline code`.
 
-Code block with Python syntax highlighting:
 
-```python
-from manubot.cite.doi import expand_short_doi
-
-def test_expand_short_doi():
-    doi = expand_short_doi("10/c3bp")
-    # a string too long to fit within page:
-    assert doi == "10.25313/2524-2695-2018-3-vliyanie-enhansera-copia-i-insulyatora-gypsy-na-sintez-ernk-modifikatsii-hromatina-i-svyazyvanie-insulyatornyh-belkov-vtransfetsirovannyh-geneticheskih-konstruktsiyah"
-```
-
-Code block with no syntax highlighting:
-
-```
-Exporting HTML manuscript
-Exporting DOCX manuscript
-Exporting PDF manuscript
-```
 
 ## Figures
 
