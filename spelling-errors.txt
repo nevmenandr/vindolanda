@@ -39,6 +39,7 @@ Kuznetsov
 labore
 laboris
 laborum
+Lepidina
 letterforms
 Lorem
 magna
@@ -54,14 +55,14 @@ officia
 Orekhov
 Pandoc’s
 pariatur
-permtations
 proident
 qui
 quis
 reprehenderit
 sed
-Severa
+severa
 sint
+Sulpicia
 sunt
 tempor
 Udmurt
@@ -69,5 +70,6 @@ ullamco
 velit
 veniam
 Vindolanda
+Vindolanda’s
 voluptate
 Voronetsky
