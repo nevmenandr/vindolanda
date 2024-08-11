@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T12:40:22+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T12:40:22+00:00" />
+  <meta name="dc.modified" content="2024-08-11T21:08:52+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T21:08:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/1cd4406bee219416c3d4816d4bb7c3c4b9eb0a0c/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/1cd4406bee219416c3d4816d4bb7c3c4b9eb0a0c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/1cd4406bee219416c3d4816d4bb7c3c4b9eb0a0c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/1cd4406bee219416c3d4816d4bb7c3c4b9eb0a0c/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/ae9fe728c71d1711af144203602a89e5ba3623c1/))
 was automatically generated
-from [nevmenandr/vindolanda@1cd4406](https://github.com/nevmenandr/vindolanda/tree/1cd4406bee219416c3d4816d4bb7c3c4b9eb0a0c)
+from [nevmenandr/vindolanda@ae9fe72](https://github.com/nevmenandr/vindolanda/tree/ae9fe728c71d1711af144203602a89e5ba3623c1)
 on August 11, 2024.
 </em></small>
 
@@ -195,6 +195,28 @@ The letter d had to be modified a bit to keep the overall character and uniformi
 ](./images/d.png){#fig:d}
 
 
+![
+**Letters from tablet and from the fontface.** 1/3
+](./images/letters1.png){#fig:letters1}
+
+Sans-serif fonts are not only sans serif. They also tend to have stems, hairlines and bars of equal thickness. In general, this rule is followed, except for the letter L, in which the seal in the crossbar emphasizes the origin of the letter from handwriting.
+
+![
+**Letters from tablet and from the fontface.** 2/3
+](./images/letters2.png){#fig:letters2}
+
+It was a challenge not only to draw the letter q, but even to find it on tablets from Vindolanda. It is [here](https://romaninscriptionsofbritain.org/inscriptions/TabVindol139), but it is very different from the other lettering. I had to change the appearance of the letter and adjust it to the general character of the font @fig:q.
+
+![
+**Letter D from tablet and from the fontface.**
+](./images/q.png){#fig:q}
+
+Letters U and V are the same.
+
+![
+**Letters from tablet and from the fontface.** 3/3
+](./images/letters3.png){#fig:letters3}
+
 ## Kerning
 
 ## Examples
@@ -206,7 +228,7 @@ Typically, fonts are demonstrated using pangrams. But is there a pangram for Lat
 ](./images/pangram.png){#fig:pangram}
 
 > The translation I see floating around the internet is odd, though:
-> Thus fleeing, O leader, you are regarded with jealousy like Karus.
+> _Thus fleeing, O leader, you are regarded with jealousy like Karus._
 
 And one more @fig:grm2.
 
@@ -215,7 +237,7 @@ And one more @fig:grm2.
 ](./images/grm2.png){#fig:grm2}
 
 > Free translation:
-> Young king with simple face and hair, this is how you are given every letter through this lyrical form on the first day of the month.
+> *Young king with simple face and hair, this is how you are given every letter through this lyrical form on the first day of the month.*
 
 Now let's try to type an original birthday invitation from Vindolanda's tablet @fig:severa. See original [here](https://romaninscriptionsofbritain.org/inscriptions/TabVindol291).
 
