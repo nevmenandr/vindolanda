@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T07:36:21+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T07:36:21+00:00" />
+  <meta name="dc.modified" content="2024-08-11T08:29:52+00:00" />
+  <meta property="article:modified_time" content="2024-08-11T08:29:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/075bc5e58850a9228f56b97aa88b586bfddf8ba5/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/8cc9bead049e85b53c6e46372ea12333dbdd62a8/))
 was automatically generated
-from [nevmenandr/vindolanda@075bc5e](https://github.com/nevmenandr/vindolanda/tree/075bc5e58850a9228f56b97aa88b586bfddf8ba5)
+from [nevmenandr/vindolanda@8cc9bea](https://github.com/nevmenandr/vindolanda/tree/8cc9bead049e85b53c6e46372ea12333dbdd62a8)
 on August 11, 2024.
 </em></small>
 
@@ -128,7 +128,8 @@ Image ownership: © Society for the Promotion of Roman Studies.
 ](./images/fig11.gif){#fig:letter-forms}
 
 
-B. Voronetsky and E. Kuznetsov E. say on ancient Greek writings:
+B. Voronetsky and E. Kuznetsov say on ancient Greek writings:
+
 > It is unusually simple, built sparingly clear lines of uniform thickness. [@voronetsky-kuznetsov]
 
 I'm aiming for the same stylistic guidelines when I'm working on the Vindolanda font.
@@ -137,7 +138,7 @@ They also write about the Latin font:
 
 > Roman font was not something uniform and constant: it was noticeably modified and existed in various forms. 
 > Its basic and original form is the capital font (lat. *caitalis* -- large, main, solid), also called majusculus (lat. *majusculis* -- somewhat larger), because it consists exclusively of capital (large) letters. An inscription made by majusculus is placed strictly between two horizontals, without a single line going beyond the line formed by them. 
-> Majuscule is, first of all, the font of solemn writings carved on columns, triumphal arches and walls. (...) Its technology (...) is careful slow carving in a stone slab along a predetermined contour. (...) He is clear, harmonious and stately. (...) Another variant of the handwritten Latin script was cursive (lat. currêre -- to run; running, means slanted). In cursive, letters were simplified, joined together, and lost some details. Quickness was achieved at the cost of loss: clarity, clarity, beauty suffered. Therefore, italics (in its various forms) was used only for business records and letters.
+> Majuscule is, first of all, the font of solemn writings carved on columns, triumphal arches and walls. (...) Its technology (...) is careful slow carving in a stone slab along a predetermined contour. (...) He is clear, harmonious and stately. (...) Another variant of the handwritten Latin writing was cursive (lat. currêre -- to run; running, means slanted). In cursive, letters were simplified, joined together, and lost some details. Quickness was achieved at the cost of loss: clarity, clarity, beauty suffered. Therefore, italics (in its various forms) was used only for business records and letters.
 
 Vindolanda returns clarity and precision of Greek writings to Roman cursive.
 
@@ -151,6 +152,8 @@ This fancy Cyrillic was created out of a desire to make the typeface more usable
 ## The shape of the letters
 
 ### Overview
+
+Traditionally, letters are drawn on the background of a grid of 16 squares proposed by A. Dürer to show their correct proportions. But the very nature of cursive contradicts this idea.
 
 ### Letters
 
@@ -213,18 +216,6 @@ two spaces at end of line.
 
 Document section headings:
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
 ### A heading centered on its own printed page{.center .page_center}
 
 <!-- an arbitrary comment. visible in input, but not visible in output. -->
@@ -232,12 +223,6 @@ Document section headings:
 Horizontal rule:
 
 ---
-
-`Heading 1`'s are recommended to be reserved for the title of the manuscript.
-
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
-
-`Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
 
 ## Links
 
