@@ -27,7 +27,6 @@ esse
 Excepteur
 exercitation
 fi
-fontace
 fontface
 fugiat
 HSE

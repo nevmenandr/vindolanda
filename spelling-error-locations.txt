@@ -26,7 +26,7 @@ content/02.delete-me.md:49:Dürer
 content/02.delete-me.md:53:Vindolanda
 content/02.delete-me.md:56:fi
 content/02.delete-me.md:56:Vindolanda
-content/02.delete-me.md:64:fontace
+content/02.delete-me.md:64:fontface
 content/02.delete-me.md:64:Vindolanda
 content/02.delete-me.md:64:Vindolanda
 content/02.delete-me.md:67:fontface
