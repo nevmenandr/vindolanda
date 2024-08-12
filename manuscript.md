@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-11T23:27:11+00:00" />
-  <meta property="article:modified_time" content="2024-08-11T23:27:11+00:00" />
+  <meta name="dc.modified" content="2024-08-12T00:00:20+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T00:00:20+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,12 +64,13 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/99416d76c1463282197e93d9e6861032d3b4b974/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/))
 was automatically generated
-from [nevmenandr/vindolanda@99416d7](https://github.com/nevmenandr/vindolanda/tree/99416d76c1463282197e93d9e6861032d3b4b974)
-on August 11, 2024.
+from [nevmenandr/vindolanda@a2af31d](https://github.com/nevmenandr/vindolanda/tree/a2af31d9f0ce77b9210beb7933c038aab7dde8d0)
+on August 12, 2024.
 </em></small>
 
+Published: August 11, 2024
 
 
 ## Author
@@ -154,7 +155,7 @@ This fancy Cyrillic was created out of a desire to make the typeface more usable
 The font can be used for more authentic reproduction in books and on websites of texts written in Roman cursive, as well as for educational purposes to practice reading texts written in Roman cursive. The font can also serve as a secret spelling for kids who want to start their own private club, like in the "Dead Poets Society" movie.
 
 [
-<i class="fas fa-ban fa-lg"></i> **Lingua Latina**<br>
+<i class="fas fa-scroll fa-lg"></i> **Lingua Latina**<br>
 Vindolanda est typus aperti fontis et liber qui formas litterarum in manuscriptis Latinis, quae durante excavations in castris auxiliariis Romanis in Anglia septentrionali inventae sunt, reproducit. Plurimae litterae in hoc fonte scribendi exempla ex tabulis ligneis Vindolandae, id est, cursivum Romanum antiquum, imitantur, sed in stricte moderno sans-serif, quod permittit originalitatem litterarum in documentis manuscriptis cum pulchritudine regularitatis in aetate typographica coniungere. Typus adhiberi potest ad veram reproductionem in libris et in paginis interretialibus textuum in cursivo Romano scriptorum, necnon ad usus educativos ad exercitandum legendi textus in cursivo Romano scriptos. Litterae maiusculae et minusculae non distinguuntur.
 ]{.banner .lightgrey}
 
@@ -234,6 +235,39 @@ The letters x and y are very rare, I have not been able to find them on Vindolan
 
 Not only should the letters be similar to the original writing, they should also look good next to each other, without leaving gaps or overlapping. Kerning is used for this purpose. The appearance of the letters is different from the usual ones, so regular kerning pairs could not be used.
 
+The following letter combinations require kerning:
+
+1. E
+    a. O
+    b. L
+    c. R
+    d. N
+    e. S
+2. F
+    a. O
+    b. M
+    c. C
+    d. S
+    e. V
+        i. U
+    f. I
+    g. G
+3. R
+    a. O
+    b. A
+    c. I
+    d. E
+    e. V
+        i. U
+    f. M
+    g. N
+    h. Q
+    i. D
+4. C
+5. K
+6. L
+7. I
+
 ## Examples
 
 Typically, fonts are demonstrated using pangrams. But is there a pangram for Latin? This is a bit of a complicated question, internet users try to answer it [here](https://latin.stackexchange.com/questions/550/is-there-a-latin-version-of-quick-brown-fox). Let's take advantage of their findings @fig:pangram.
@@ -280,9 +314,11 @@ Vindolanda is absoltely *free and open*. Moreover, you can not only use the font
 
 ## Download
 
-<i class="fas fa-cloud-download"></i>
+<i class="fas fa-cloud-download"></i> OTF file
 
 ## Source project
+
+The font is made in [glyphr studio](https://www.glyphrstudio.com/app/). You can [download the project sources]() and work with them yourself.
 
 ## Acknowledgements
 
@@ -290,9 +326,9 @@ I am grateful to Maria Timoschuk, who introduced me to the Vindolanda tablets, a
 
 ## My other fonts
 
-<i class="fas fa-font"></i> [18cent](https://nevmenandr.github.io/18cent-font/) A typeface based on a historical typeface used in 18th century typography, but was sought after as an illustration of brokenness and lack of mental balance in the credits of a movie about [Tchaikovsky's wife](https://www.imdb.com/title/tt17538510/).
+<i class="fas fa-font"></i> [18cent](https://nevmenandr.github.io/18cent-font/) A typeface based on a historical typeface used in 18th century typography, but was sought after as an illustration of brokenness and lack of mental balance in the credits of a movie about <i class="fas fa-imdb"></i> [Tchaikovsky's wife](https://www.imdb.com/title/tt17538510/).
 
-<i class="fas fa-font"></i> [Font and script for a constructed language for the birthday of M. Danieliou](https://github.com/nevmenandr/artlang-dani-el?tab=readme-ov-file#%D1%88%D1%80%D0%B8%D1%84%D1%82)
+<i class="fas fa-font"></i> [Font and writing system for a constructed language for the birthday of M. Daniel](https://github.com/nevmenandr/artlang-dani-el?tab=readme-ov-file#%D1%88%D1%80%D0%B8%D1%84%D1%82)
 
 **Bold** __text__
 
@@ -308,108 +344,37 @@ Combined *italics and __bold__*
 
 ~~Strikethrough~~
 
-1. Ordered list item
-2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
-3. Ordered list item
-    a. Sub-item
 
-- List item
-- List item
-- List item
-
-subscript: H~2~O is a liquid
-
-superscript: 2^10^ is 1024.
 
 [unicode superscripts](https://www.google.com/search?q=superscript+generator)⁰¹²³⁴⁵⁶⁷⁸⁹
 
 [unicode subscripts](https://www.google.com/search?q=superscript+generator)₀₁₂₃₄₅₆₇₈₉
 
-A long paragraph of text.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Putting each sentence on its own line has numerous benefits with regard to [editing](https://asciidoctor.org/docs/asciidoc-recommended-practices/#one-sentence-per-line) and [version control](https://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 
 Line break without starting a new paragraph by putting  
 two spaces at end of line.
 
-## Document organization
 
-Document section headings:
-
-### A heading centered on its own printed page{.center .page_center}
-
-<!-- an arbitrary comment. visible in input, but not visible in output. -->
 
 Horizontal rule:
 
 ---
 
-## Links
 
-Bare URL link: <https://manubot.org>
-
-[Long link with lots of words and stuff and junk and bleep and blah and stuff and other stuff and more stuff yeah](https://manubot.org)
-
-[Link with text](https://manubot.org)
-
-[Link with hover text](https://manubot.org "Manubot Homepage")
-
-[Link by reference][manubot homepage]
-
-[Manubot Homepage]: https://manubot.org
 
 ## Citations
 
 Citation by Wikidata ID [@wikidata:Q56458321].
 
-Manubot plugins provide easier, more convenient visualization of and navigation between citations [@doi:10.1371/journal.pcbi.1007128; @pubmed:30718888; @pmc:PMC6103790; @deep-review].
 
-## Referencing figures, tables, equations
-
-Figure @fig:square-image
-
-Figure @fig:wide-image
-
-Figure @fig:tall-image
-
-Figure @fig:vector-image
-
-Table @tbl:bowling-scores
-
-Equation @eq:regular-equation
-
-Equation @eq:long-equation
 
 ## Quotes and code
 
 
 Code `in the middle` of normal text, aka `inline code`.
 
-
-
-## Figures
-
-![
-**A square image at actual size and with a bottom caption.**
-Loaded from the latest version of image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/square.png "Square image"){#fig:square-image}
-
-![
-**An image too wide to fit within page at full size.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/wide.png "Wide image"){#fig:wide-image}
-
-![
-**A tall image with a specified height.**
-Loaded from a specific (hashed) version of the image on GitHub.
-](https://github.com/manubot/resources/raw/15493970f8882fce22bef829619d3fb37a613ba5/test/tall.png "Tall image"){#fig:tall-image height=3in}
 
 ![
 **A vector `.svg` image loaded from GitHub.**
@@ -418,33 +383,6 @@ White background specified to serve as a backdrop for transparent sections of th
 Note that if you want to export to Word (`.docx`), you need to download the image and reference it locally (e.g. `content/images/vector.svg`) instead of using a URL.
 ](https://raw.githubusercontent.com/manubot/resources/main/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
 
-## Tables
-
-| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
-|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Game 1 | 150 | 187 | 210 | 105 |
-| Game 2 |  98 | 202 | 197 | 102 |
-| Game 3 | 123 | 180 | 238 | 134 |
-
-Table: A table with a top caption and specified relative column widths.
-{#tbl:bowling-scores}
-
-|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
-|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
-| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
-| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
-
-Table: A table too wide to fit within page.
-{#tbl:constant-digits}
-
-|          | **Colors** <!-- $colspan="2" --> |                      |
-|:--------:|:--------------------------------:|:--------------------:|
-| **Size** | **Text Color**                   | **Background Color** |
-| big      | blue                             | orange               |
-| small    | black                            | white                |
-
-Table: A table with merged cells using the `attributes` plugin.
-{#tbl: merged-cells}
 
 ## Special
 
