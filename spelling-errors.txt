@@ -43,7 +43,7 @@ inventae
 iuvenis
 Kalendis
 Karus
-kerning
+Kerning
 Kuznetsov
 Latinis
 legendi
@@ -54,7 +54,7 @@ libris
 ligneis
 Lingua
 littera
-Litterae
+litterae
 litterarum
 lyrica
 maiusculae

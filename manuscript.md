@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T00:58:00+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T00:58:00+00:00" />
+  <meta name="dc.modified" content="2024-08-12T01:13:00+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T01:13:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/0378a46c935d194a3285b6fa3c882a276b6fbfb0/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/0378a46c935d194a3285b6fa3c882a276b6fbfb0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/0378a46c935d194a3285b6fa3c882a276b6fbfb0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/0378a46c935d194a3285b6fa3c882a276b6fbfb0/))
 was automatically generated
-from [nevmenandr/vindolanda@543e38d](https://github.com/nevmenandr/vindolanda/tree/543e38d67ab30df32b51b7d010c8f25458c8d802)
+from [nevmenandr/vindolanda@0378a46](https://github.com/nevmenandr/vindolanda/tree/0378a46c935d194a3285b6fa3c882a276b6fbfb0)
 on August 12, 2024.
 </em></small>
 
@@ -320,6 +320,8 @@ I have no idea what Cyrillic characters might look like in this font. The Slavs 
 <i class="fas fa-info-circle fa-lg"></i> **License and terms of use**<br>
 Vindolanda is absoltely *free and open*. Moreover, you can not only use the font (including for commercial purposes), but also [work with the sources](#download) and modify it. 
 ]{.banner .lightblue}
+
+![](./images/by.png)
 
 ## Download
 
