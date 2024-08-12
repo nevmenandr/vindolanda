@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T01:53:31+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T01:53:31+00:00" />
+  <meta name="dc.modified" content="2024-08-12T16:19:24+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T16:19:24+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/97323647f8d63499658dbe18c51c255fb9872da1/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/97323647f8d63499658dbe18c51c255fb9872da1/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/97323647f8d63499658dbe18c51c255fb9872da1/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/a18d2eae165b7bf97fc0cccbda8c82fba5ae33a2/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a18d2eae165b7bf97fc0cccbda8c82fba5ae33a2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a18d2eae165b7bf97fc0cccbda8c82fba5ae33a2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/97323647f8d63499658dbe18c51c255fb9872da1/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/a18d2eae165b7bf97fc0cccbda8c82fba5ae33a2/))
 was automatically generated
-from [nevmenandr/vindolanda@9732364](https://github.com/nevmenandr/vindolanda/tree/97323647f8d63499658dbe18c51c255fb9872da1)
+from [nevmenandr/vindolanda@a18d2ea](https://github.com/nevmenandr/vindolanda/tree/a18d2eae165b7bf97fc0cccbda8c82fba5ae33a2)
 on August 12, 2024.
 </em></small>
 
@@ -156,7 +156,7 @@ The font can be used for more authentic reproduction in books and on websites of
 
 [
 <i class="fas fa-scroll fa-lg"></i> **Lingua Latina**<br>
-Vindolanda est typus aperti fontis et liber qui formas litterarum in manuscriptis Latinis, quae durante excavations in castris auxiliariis Romanis in Anglia septentrionali inventae sunt, reproducit. Plurimae litterae in hoc fonte scribendi exempla ex tabulis ligneis Vindolandae, id est, cursivum Romanum antiquum, imitantur, sed in stricte moderno sans-serif, quod permittit originalitatem litterarum in documentis manuscriptis cum pulchritudine regularitatis in aetate typographica coniungere. Typus adhiberi potest ad veram reproductionem in libris et in paginis interretialibus textuum in cursivo Romano scriptorum, necnon ad usus educativos ad exercitandum legendi textus in cursivo Romano scriptos. Litterae maiusculae et minusculae non distinguuntur.
+Vindolanda est typus aperti fontis et liber qui formas litterarum in manuscriptis Latinis, quae in castris auxiliariis Romanis in Anglia septentrionali inventae sunt, reproducit. Plurimae litterae in hoc fonte scribendi exempla ex tabulis ligneis Vindolandae, id est, cursivum Romanum antiquum, imitantur, sed in stricte moderno sans-serif, quod permittit originalitatem litterarum in documentis manuscriptis cum pulchritudine regularitatis in aetate typographica coniungere. Typus adhiberi potest ad veram reproductionem in libris et in paginis interretialibus textuum cursivo Romano scriptorum, necnon ad usus educativos ad exercitandum legendi textus in cursivo Romano scriptos. Litterae maiusculae et minusculae non distinguuntur.
 ]{.banner .lightgrey}
 
 ## The shape of the letters
