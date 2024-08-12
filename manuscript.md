@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T00:48:28+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T00:48:28+00:00" />
+  <meta name="dc.modified" content="2024-08-12T00:58:00+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T00:58:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/4c3a4f0420c17ff5f6606b854b0aab2cdca6cad5/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/4c3a4f0420c17ff5f6606b854b0aab2cdca6cad5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/4c3a4f0420c17ff5f6606b854b0aab2cdca6cad5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/4c3a4f0420c17ff5f6606b854b0aab2cdca6cad5/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/543e38d67ab30df32b51b7d010c8f25458c8d802/))
 was automatically generated
-from [nevmenandr/vindolanda@4c3a4f0](https://github.com/nevmenandr/vindolanda/tree/4c3a4f0420c17ff5f6606b854b0aab2cdca6cad5)
+from [nevmenandr/vindolanda@543e38d](https://github.com/nevmenandr/vindolanda/tree/543e38d67ab30df32b51b7d010c8f25458c8d802)
 on August 12, 2024.
 </em></small>
 
@@ -113,7 +113,7 @@ Vindolanda is an open-source and free font that reproduces the letterforms in La
 
 ## Introduction
 
-This document presents a typeface that reproduces the appearance of the Roman cursive in its ancient version. It is modeled on the letters read on wooden tablets found during excavations in `Vindolanda`{.lightblue}:
+This document presents a typeface that reproduces the appearance of the Roman cursive in its ancient version. It is modeled on the letters read on wooden tablets found during excavations in `Vindolanda`{.lightblue} [@isbn:9781873136874]:
 
 > The anaerobic conditions at the Roman fort of Vindolanda, close to Hadrian's Wall in northern Britain, have famously preserved a variety of finds made of organic materials, including wooden writing tablets and a pair of leather boxing gloves. 
 [@doi:10.15184/aqy.2023.11]
@@ -305,7 +305,7 @@ Now let's try to type an original birthday invitation from Vindolanda's tablet @
 
 ## Cyrillic
 
-I have no idea what Cyrillic characters might look like in this font. The Slavs would not have a written language until 700 years later. Although there is a place in the Slavic area with similar soil features that allow ancient manuscripts to be preserved for archaeologists [@isbn:9789004389403], the writing technique in Novgorod was different: in Vindolanda they wrote with ink on wooden tablets, while in Novgorod the letters were scratched into the bark of the tree [@isbn:9789004362383]. Therefore, direct analogies in the appearance of letters are impossible. So it's all pure fantasy @fig:cyr. 
+I have no idea what Cyrillic characters might look like in this font. The Slavs would not have a written language until 700 years later. Although there is a place in the Slavic area with similar soil features [@doi:10.1080/00665983.2021.1949148] that allow ancient manuscripts to be preserved for archaeologists [@isbn:9789004389403], the writing technique in Novgorod was different: in Vindolanda they wrote with ink on wooden tablets, while in Novgorod the letters were scratched into the bark of the tree [@isbn:9789004362383]. Therefore, direct analogies in the appearance of letters are impossible. So it's all pure fantasy @fig:cyr. 
 
 ![
 **Fantasy Cyrillic.**
