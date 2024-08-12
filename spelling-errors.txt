@@ -43,7 +43,7 @@ inventae
 iuvenis
 Kalendis
 Karus
-kerning
+Kerning
 Kuznetsov
 Latinis
 legendi
@@ -92,7 +92,7 @@ scriptorum
 scriptos
 sed
 septentrionali
-Severa
+severa
 stricte
 Sulpicia
 sunt
@@ -103,7 +103,7 @@ tibi
 Timoschuk
 TTF
 typographica
-Typus
+typus
 Udmurt
 usus
 veram
