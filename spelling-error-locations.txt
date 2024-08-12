@@ -154,9 +154,9 @@ content/02.vindolanda-body.md:202:cyr
 content/02.vindolanda-body.md:211:absoltely
 content/02.vindolanda-body.md:211:Vindolanda
 content/02.vindolanda-body.md:216:nevmenandr
+content/02.vindolanda-body.md:216:otf
 content/02.vindolanda-body.md:216:OTF
 content/02.vindolanda-body.md:216:OTF
-content/02.vindolanda-body.md:216:ttf
 content/02.vindolanda-body.md:216:vindolanda
 content/02.vindolanda-body.md:216:Vindolanda
 content/02.vindolanda-body.md:217:nevmenandr

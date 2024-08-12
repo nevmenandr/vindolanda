@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T00:35:27+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T00:35:27+00:00" />
+  <meta name="dc.modified" content="2024-08-12T00:40:49+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T00:40:49+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/596cff617cb2eea593bd16c37dbda1ce3606be2f/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/596cff617cb2eea593bd16c37dbda1ce3606be2f/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/596cff617cb2eea593bd16c37dbda1ce3606be2f/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/332b9bd723c47dbecbab18b992582bc2c2c9ee1f/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/332b9bd723c47dbecbab18b992582bc2c2c9ee1f/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/332b9bd723c47dbecbab18b992582bc2c2c9ee1f/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/596cff617cb2eea593bd16c37dbda1ce3606be2f/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/332b9bd723c47dbecbab18b992582bc2c2c9ee1f/))
 was automatically generated
-from [nevmenandr/vindolanda@596cff6](https://github.com/nevmenandr/vindolanda/tree/596cff617cb2eea593bd16c37dbda1ce3606be2f)
+from [nevmenandr/vindolanda@332b9bd](https://github.com/nevmenandr/vindolanda/tree/332b9bd723c47dbecbab18b992582bc2c2c9ee1f)
 on August 12, 2024.
 </em></small>
 
@@ -323,8 +323,8 @@ Vindolanda is absoltely *free and open*. Moreover, you can not only use the font
 
 ## Download
 
-- [OTF file](https://github.com/nevmenandr/vindolanda/blob/main/Vindolanda-Regular.ttf "OTF file"){.button}
-- [TTF file](https://github.com/nevmenandr/vindolanda/blob/main/Vindolanda-Regular.ttf "TTF file"){.button}
+- [OTF file](https://github.com/nevmenandr/vindolanda/raw/main/Vindolanda-Regular.otf "OTF file"){.button}
+- [TTF file](https://github.com/nevmenandr/vindolanda/raw/main/Vindolanda-Regular.ttf "TTF file"){.button}
 
 ## Source project
 
