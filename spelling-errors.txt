@@ -43,7 +43,7 @@ inventae
 iuvenis
 Kalendis
 Karus
-Kerning
+kerning
 Kuznetsov
 Latinis
 legendi
@@ -54,7 +54,7 @@ libris
 ligneis
 Lingua
 littera
-litterae
+Litterae
 litterarum
 lyrica
 maiusculae
@@ -92,7 +92,7 @@ scriptorum
 scriptos
 sed
 septentrionali
-severa
+Severa
 stricte
 Sulpicia
 sunt
