@@ -54,7 +54,7 @@ libris
 ligneis
 Lingua
 littera
-Litterae
+litterae
 litterarum
 lyrica
 maiusculae
@@ -93,7 +93,7 @@ scriptorum
 scriptos
 sed
 septentrionali
-Severa
+severa
 stricte
 Sulpicia
 sunt
@@ -104,7 +104,7 @@ tibi
 Timoschuk
 TTF
 typographica
-typus
+Typus
 Udmurt
 usus
 veram

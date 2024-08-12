@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T00:16:08+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T00:16:08+00:00" />
+  <meta name="dc.modified" content="2024-08-12T00:28:09+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T00:28:09+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/578d447952a19d8709e0c539bf796eca2ad9a730/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/578d447952a19d8709e0c539bf796eca2ad9a730/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/578d447952a19d8709e0c539bf796eca2ad9a730/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/578d447952a19d8709e0c539bf796eca2ad9a730/))
 was automatically generated
-from [nevmenandr/vindolanda@172da8a](https://github.com/nevmenandr/vindolanda/tree/172da8a594684902d104602560ad844fac465bc6)
+from [nevmenandr/vindolanda@578d447](https://github.com/nevmenandr/vindolanda/tree/578d447952a19d8709e0c539bf796eca2ad9a730)
 on August 12, 2024.
 </em></small>
 
@@ -113,7 +113,7 @@ Vindolanda is an open-source and free font that reproduces the letterforms in La
 
 ## Introduction
 
-This document presents a typeface that reproduces the appearance of the Roman cursive in its ancient version. It is modeled on the letters read on wooden tablets found during excavations in Vindolanda
+This document presents a typeface that reproduces the appearance of the Roman cursive in its ancient version. It is modeled on the letters read on wooden tablets found during excavations in `Vindolanda`{.lightblue}:
 
 > The anaerobic conditions at the Roman fort of Vindolanda, close to Hadrian's Wall in northern Britain, have famously preserved a variety of finds made of organic materials, including wooden writing tablets and a pair of leather boxing gloves. 
 [@doi:10.15184/aqy.2023.11]
@@ -213,7 +213,7 @@ Sans-serif fonts are not only sans serif. They also tend to have stems, hairline
 **Letters from tablet and from the fontface.** 2/3
 ](./images/letters2.png){#fig:letters2}
 
-It was a challenge not only to draw the letter q, but even to find it on tablets from Vindolanda. It is [here](https://romaninscriptionsofbritain.org/inscriptions/TabVindol139), but it is very different from the other lettering. I had to change the appearance of the letter and adjust it to the general character of the font @fig:q.
+It was a challenge not only to draw the letter q, but even to find it on tablets from Vindolanda [@wikidata:Q1153229]. It is [here](https://romaninscriptionsofbritain.org/inscriptions/TabVindol139), but it is very different from the other lettering. I had to change the appearance of the letter and adjust it to the general character of the font @fig:q.
 
 ![
 **Letter D from tablet and from the fontface.**
@@ -237,13 +237,13 @@ Not only should the letters be similar to the original writing, they should also
 
 The following letter combinations require kerning:
 
-1. E
+1. `E`{.lightyellow}
     a. O
     b. L
     c. R
     d. N
     e. S
-2. F
+2. `F`{.lightyellow}
     a. O
     b. M
     c. C
@@ -252,7 +252,7 @@ The following letter combinations require kerning:
         i. U
     f. I
     g. G
-3. R
+3. `R`{.lightyellow}
     a. O
     b. A
     c. I
@@ -263,7 +263,7 @@ The following letter combinations require kerning:
     g. N
     h. Q
     i. D
-4. C
+4. `C`{.lightyellow}
     a. O
     b. L
     c. I
@@ -274,7 +274,8 @@ The following letter combinations require kerning:
         ii. W
     g. R
     h. S
-Also K, L, I and others need kerning.
+
+Also K, L, I and other need kerning.
 
 ## Examples
 
@@ -310,7 +311,7 @@ I have no idea what Cyrillic characters might look like in this font. The Slavs 
 **Fantasy Cyrillic.**
 ](./images/cyr.png){#fig:cyr}
 
-В in the mirror image of Б, Г goes back to С, as it has historically, Д is two mirrored G's, the other letters are simply drawn in single sharp strokes.
+`В`{.lightgreen} in the mirror image of `Б`{.lightgreen}, `Г`{.lightgreen} goes back to `С`{.lightgreen}, as it has historically, `Д`{.lightgreen} is two mirrored `G`{.lightgreen}'s, the other letters are simply drawn in single sharp strokes.
 
 ## License and terms of use
 
@@ -322,12 +323,12 @@ Vindolanda is absoltely *free and open*. Moreover, you can not only use the font
 
 ## Download
 
-- OTF file
-- TTF file
+- [OTF file](https://github.com/nevmenandr/vindolanda/blob/main/Vindolanda-Regular.ttf "OTF file"){.button}
+- [TTF file](https://github.com/nevmenandr/vindolanda/blob/main/Vindolanda-Regular.ttf "TTF file"){.button}
 
 ## Source project
 
-The font is made in [Glyphr studio](https://www.glyphrstudio.com/app/). You can [download the project sources]() and work with them yourself.
+The font is made in [Glyphr studio](https://www.glyphrstudio.com/app/). You can [download the project sources](https://github.com/nevmenandr/vindolanda/blob/main/Vindolanda-Regular%20-%20Glyphr%20Studio%20Project.gs2) and work with them yourself.
 
 ## Acknowledgements
 
@@ -372,30 +373,9 @@ Horizontal rule:
 ---
 
 
-
-## Citations
-
-Citation by Wikidata ID [@wikidata:Q56458321].
-
-
-
-## Quotes and code
-
-
-Code `in the middle` of normal text, aka `inline code`.
-
-
-![
-**A vector `.svg` image loaded from GitHub.**
-The parameter `sanitize=true` is necessary to properly load SVGs hosted via GitHub URLs.
-White background specified to serve as a backdrop for transparent sections of the image.
-Note that if you want to export to Word (`.docx`), you need to download the image and reference it locally (e.g. `content/images/vector.svg`) instead of using a URL.
-](https://raw.githubusercontent.com/manubot/resources/main/test/vector.svg?sanitize=true "Vector image"){#fig:vector-image height=2.5in .white}
-
-
 ## Special
 
-<i class="fas fa-exclamation-triangle"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
+<i class="fas fa-imdb"></i> [WARNING]{.semibold} _The following features are only supported and intended for `.html` and `.pdf` exports._
 _Journals are not likely to support them, and they may not display correctly when converted to other formats such as `.docx`._
 
 [Link styled as a button](https://manubot.org "Manubot Homepage"){.button}
