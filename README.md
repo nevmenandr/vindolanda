@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/nevmenandr/vindolanda/tree/gh-pages) branch hosts the contents of this directory at <https://nevmenandr.github.io/vindolanda/>.
-The permalink for this webpage version is <https://nevmenandr.github.io/vindolanda/v/eda77e8bc4758e7f3ccd70f6ab804a1340e559d2/>.
+The permalink for this webpage version is <https://nevmenandr.github.io/vindolanda/v/d2a24efb414168cf7ccb03c1e0a596227841e0e8/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://nevmenandr.github.io/vindolanda/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`eda77e8bc4758e7f3ccd70f6ab804a1340e559d2`](https://github.com/nevmenandr/vindolanda/commit/eda77e8bc4758e7f3ccd70f6ab804a1340e559d2).
+[`d2a24efb414168cf7ccb03c1e0a596227841e0e8`](https://github.com/nevmenandr/vindolanda/commit/d2a24efb414168cf7ccb03c1e0a596227841e0e8).
