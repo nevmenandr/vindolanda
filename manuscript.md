@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T17:23:15+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T17:23:15+00:00" />
+  <meta name="dc.modified" content="2024-08-12T19:02:33+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T19:02:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/2a5ea9e190ab001619551310304c96604a05395b/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/2a5ea9e190ab001619551310304c96604a05395b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/2a5ea9e190ab001619551310304c96604a05395b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/2a5ea9e190ab001619551310304c96604a05395b/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/))
 was automatically generated
-from [nevmenandr/vindolanda@2a5ea9e](https://github.com/nevmenandr/vindolanda/tree/2a5ea9e190ab001619551310304c96604a05395b)
+from [nevmenandr/vindolanda@f0e52e4](https://github.com/nevmenandr/vindolanda/tree/f0e52e4480149dffcd6e82cc7de2cc72bc077c30)
 on August 12, 2024.
 </em></small>
 
@@ -138,7 +138,7 @@ B. Voronetsky and E. Kuznetsov say on ancient Greek writings:
 
 I'm aiming for the same stylistic guidelines when I'm working on the Vindolanda font.
 
-They also write about the Latin font: 
+They also write about the Roman font: 
 
 > Roman font was not something uniform and constant: it was noticeably modified and existed in various forms. 
 > Its basic and original form is the capital font (lat. *caitalis* -- large, main, solid), also called majusculus (lat. *majusculis* -- somewhat larger), because it consists exclusively of capital (large) letters. An inscription made by majusculus is placed strictly between two horizontals, without a single line going beyond the line formed by them. 
