@@ -99,7 +99,6 @@ content/02.vindolanda-body.md:49:typographicum
 content/02.vindolanda-body.md:49:usum
 content/02.vindolanda-body.md:49:utiles
 content/02.vindolanda-body.md:49:utuntur
-content/02.vindolanda-body.md:49:Valete
 content/02.vindolanda-body.md:49:vero
 content/02.vindolanda-body.md:49:Vindolanda
 content/02.vindolanda-body.md:56:Dürer

@@ -48,7 +48,7 @@ iuvenis
 iuxta
 Kalendis
 Karus
-Kerning
+kerning
 Kuznetsov
 Latinam
 Lepidina
@@ -115,7 +115,6 @@ Udmurt
 usum
 utiles
 utuntur
-Valete
 vero
 Vindolanda
 Vindolanda’s
