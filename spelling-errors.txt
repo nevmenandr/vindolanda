@@ -54,7 +54,7 @@ libris
 ligneis
 Lingua
 littera
-Litterae
+litterae
 litterarum
 lyrica
 maiusculae
