@@ -43,7 +43,7 @@ inventae
 iuvenis
 Kalendis
 Karus
-Kerning
+kerning
 Kuznetsov
 Latinis
 legendi
@@ -103,7 +103,7 @@ tibi
 Timoschuk
 TTF
 typographica
-typus
+Typus
 Udmurt
 usus
 veram
