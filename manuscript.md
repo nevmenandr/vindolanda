@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T19:02:33+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T19:02:33+00:00" />
+  <meta name="dc.modified" content="2024-08-12T19:03:52+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T19:03:52+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/eda77e8bc4758e7f3ccd70f6ab804a1340e559d2/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/eda77e8bc4758e7f3ccd70f6ab804a1340e559d2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/eda77e8bc4758e7f3ccd70f6ab804a1340e559d2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/f0e52e4480149dffcd6e82cc7de2cc72bc077c30/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/eda77e8bc4758e7f3ccd70f6ab804a1340e559d2/))
 was automatically generated
-from [nevmenandr/vindolanda@f0e52e4](https://github.com/nevmenandr/vindolanda/tree/f0e52e4480149dffcd6e82cc7de2cc72bc077c30)
+from [nevmenandr/vindolanda@eda77e8](https://github.com/nevmenandr/vindolanda/tree/eda77e8bc4758e7f3ccd70f6ab804a1340e559d2)
 on August 12, 2024.
 </em></small>
 
@@ -216,7 +216,7 @@ Sans-serif fonts are not only sans serif. They also tend to have stems, hairline
 It was a challenge not only to draw the letter `Q`{.grey}, but even to find it on tablets from Vindolanda [@wikidata:Q1153229]. It is [here](https://romaninscriptionsofbritain.org/inscriptions/TabVindol139), but it is very different from the other lettering. I had to change the appearance of the letter and adjust it to the general character of the font @fig:q.
 
 ![
-**Letter D from tablet and from the fontface.**
+**Letter Q from tablet and from the fontface.**
 ](./images/q.png){#fig:q}
 
 Letters `U`{.grey} and `V`{.grey} are the same.
