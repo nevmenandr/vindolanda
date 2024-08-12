@@ -173,5 +173,3 @@ content/02.vindolanda-body.md:225:Timoschuk
 content/02.vindolanda-body.md:225:Vindolanda
 content/02.vindolanda-body.md:229:nevmenandr
 content/02.vindolanda-body.md:231:nevmenandr
-content/02.vindolanda-body.md:273:Pandoc's
-content/02.vindolanda-body.md:283:Pandoc's
