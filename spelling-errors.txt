@@ -30,7 +30,7 @@ fontis
 forma
 formas
 fugiens
-glyphr
+Glyphr
 gracili
 grm
 haberis
@@ -54,7 +54,7 @@ libris
 ligneis
 Lingua
 littera
-litterae
+Litterae
 litterarum
 lyrica
 maiusculae
@@ -93,7 +93,7 @@ scriptorum
 scriptos
 sed
 septentrionali
-severa
+Severa
 stricte
 Sulpicia
 sunt
@@ -102,6 +102,7 @@ textus
 textuum
 tibi
 Timoschuk
+TTF
 typographica
 typus
 Udmurt

@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T00:00:20+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T00:00:20+00:00" />
+  <meta name="dc.modified" content="2024-08-12T00:16:08+00:00" />
+  <meta property="article:modified_time" content="2024-08-12T00:16:08+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/a2af31d9f0ce77b9210beb7933c038aab7dde8d0/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/172da8a594684902d104602560ad844fac465bc6/))
 was automatically generated
-from [nevmenandr/vindolanda@a2af31d](https://github.com/nevmenandr/vindolanda/tree/a2af31d9f0ce77b9210beb7933c038aab7dde8d0)
+from [nevmenandr/vindolanda@172da8a](https://github.com/nevmenandr/vindolanda/tree/172da8a594684902d104602560ad844fac465bc6)
 on August 12, 2024.
 </em></small>
 
@@ -264,9 +264,17 @@ The following letter combinations require kerning:
     h. Q
     i. D
 4. C
-5. K
-6. L
-7. I
+    a. O
+    b. L
+    c. I
+    d. N
+    e. M
+    f. V
+        i. U
+        ii. W
+    g. R
+    h. S
+Also K, L, I and others need kerning.
 
 ## Examples
 
@@ -314,11 +322,12 @@ Vindolanda is absoltely *free and open*. Moreover, you can not only use the font
 
 ## Download
 
-<i class="fas fa-cloud-download"></i> OTF file
+- OTF file
+- TTF file
 
 ## Source project
 
-The font is made in [glyphr studio](https://www.glyphrstudio.com/app/). You can [download the project sources]() and work with them yourself.
+The font is made in [Glyphr studio](https://www.glyphrstudio.com/app/). You can [download the project sources]() and work with them yourself.
 
 ## Acknowledgements
 
@@ -326,7 +335,7 @@ I am grateful to Maria Timoschuk, who introduced me to the Vindolanda tablets, a
 
 ## My other fonts
 
-<i class="fas fa-font"></i> [18cent](https://nevmenandr.github.io/18cent-font/) A typeface based on a historical typeface used in 18th century typography, but was sought after as an illustration of brokenness and lack of mental balance in the credits of a movie about <i class="fas fa-imdb"></i> [Tchaikovsky's wife](https://www.imdb.com/title/tt17538510/).
+<i class="fas fa-font"></i> [18cent](https://nevmenandr.github.io/18cent-font/) A typeface based on a historical typeface used in 18th century typography, but was sought after as an illustration of brokenness and lack of mental balance in the credits of a movie about [Tchaikovsky's wife](https://www.imdb.com/title/tt17538510/).
 
 <i class="fas fa-font"></i> [Font and writing system for a constructed language for the birthday of M. Daniel](https://github.com/nevmenandr/artlang-dani-el?tab=readme-ov-file#%D1%88%D1%80%D0%B8%D1%84%D1%82)
 
