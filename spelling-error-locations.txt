@@ -181,7 +181,8 @@ content/02.vindolanda-body.md:223:Glyphr
 content/02.vindolanda-body.md:223:nevmenandr
 content/02.vindolanda-body.md:223:vindolanda
 content/02.vindolanda-body.md:223:Vindolanda
-content/02.vindolanda-body.md:227:Timoschuk
+content/02.vindolanda-body.md:227:Mariia
+content/02.vindolanda-body.md:227:Timoshchuk
 content/02.vindolanda-body.md:227:Vindolanda
 content/02.vindolanda-body.md:231:nevmenandr
 content/02.vindolanda-body.md:233:nevmenandr
