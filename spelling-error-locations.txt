@@ -45,7 +45,7 @@ content/02.vindolanda-body.md:49:erutae
 content/02.vindolanda-body.md:49:formam
 content/02.vindolanda-body.md:49:gratuitae
 content/02.vindolanda-body.md:49:haberet
-content/02.vindolanda-body.md:49:HHac
+content/02.vindolanda-body.md:49:Hac
 content/02.vindolanda-body.md:49:igitur
 content/02.vindolanda-body.md:49:illic
 content/02.vindolanda-body.md:49:instituendos
