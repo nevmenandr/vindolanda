@@ -38,7 +38,7 @@ gratuitae
 grm
 haberet
 haberis
-Hac
+hac
 HSE
 igitur
 illic
@@ -96,7 +96,7 @@ scripturam
 secundum
 semper
 servato
-Severa
+severa
 speciem
 speramus
 suam

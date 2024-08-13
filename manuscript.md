@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-12T19:26:06+00:00" />
-  <meta property="article:modified_time" content="2024-08-12T19:26:06+00:00" />
+  <meta name="dc.modified" content="2024-08-13T03:21:00+00:00" />
+  <meta property="article:modified_time" content="2024-08-13T03:21:00+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/d2a24efb414168cf7ccb03c1e0a596227841e0e8/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/d2a24efb414168cf7ccb03c1e0a596227841e0e8/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/d2a24efb414168cf7ccb03c1e0a596227841e0e8/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/a18173fbee9e14ad1ec70aa465d84ab71ad72a7b/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a18173fbee9e14ad1ec70aa465d84ab71ad72a7b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/a18173fbee9e14ad1ec70aa465d84ab71ad72a7b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,10 +64,10 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/d2a24efb414168cf7ccb03c1e0a596227841e0e8/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/a18173fbee9e14ad1ec70aa465d84ab71ad72a7b/))
 was automatically generated
-from [nevmenandr/vindolanda@d2a24ef](https://github.com/nevmenandr/vindolanda/tree/d2a24efb414168cf7ccb03c1e0a596227841e0e8)
-on August 12, 2024.
+from [nevmenandr/vindolanda@a18173f](https://github.com/nevmenandr/vindolanda/tree/a18173fbee9e14ad1ec70aa465d84ab71ad72a7b)
+on August 13, 2024.
 </em></small>
 
 Published: August 11, 2024
