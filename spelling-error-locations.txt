@@ -24,9 +24,10 @@ content/02.vindolanda-body.md:41:Bashkir
 content/02.vindolanda-body.md:41:Udmurt
 content/02.vindolanda-body.md:48:Lingua
 content/02.vindolanda-body.md:49:animi
-content/02.vindolanda-body.md:49:appelatam
+content/02.vindolanda-body.md:49:appellatam
 content/02.vindolanda-body.md:49:aptam
 content/02.vindolanda-body.md:49:aptatam
+content/02.vindolanda-body.md:49:castris
 content/02.vindolanda-body.md:49:causa
 content/02.vindolanda-body.md:49:communem
 content/02.vindolanda-body.md:49:corde
@@ -44,7 +45,7 @@ content/02.vindolanda-body.md:49:erutae
 content/02.vindolanda-body.md:49:formam
 content/02.vindolanda-body.md:49:gratuitae
 content/02.vindolanda-body.md:49:haberet
-content/02.vindolanda-body.md:49:Hac
+content/02.vindolanda-body.md:49:HHac
 content/02.vindolanda-body.md:49:igitur
 content/02.vindolanda-body.md:49:illic
 content/02.vindolanda-body.md:49:instituendos
@@ -74,12 +75,14 @@ content/02.vindolanda-body.md:49:omnes
 content/02.vindolanda-body.md:49:ornandas
 content/02.vindolanda-body.md:49:pagina
 content/02.vindolanda-body.md:49:paginas
+content/02.vindolanda-body.md:49:prodesse
 content/02.vindolanda-body.md:49:proponuntur
 content/02.vindolanda-body.md:49:quae
 content/02.vindolanda-body.md:49:quae
 content/02.vindolanda-body.md:49:quaeque
 content/02.vindolanda-body.md:49:quidem
 content/02.vindolanda-body.md:49:Romanas
+content/02.vindolanda-body.md:49:Romanis
 content/02.vindolanda-body.md:49:saeculo
 content/02.vindolanda-body.md:49:scriptura
 content/02.vindolanda-body.md:49:scripturam
@@ -97,7 +100,6 @@ content/02.vindolanda-body.md:49:tabellis
 content/02.vindolanda-body.md:49:temporis
 content/02.vindolanda-body.md:49:typographicum
 content/02.vindolanda-body.md:49:usum
-content/02.vindolanda-body.md:49:utiles
 content/02.vindolanda-body.md:49:utuntur
 content/02.vindolanda-body.md:49:vero
 content/02.vindolanda-body.md:49:Vindolanda

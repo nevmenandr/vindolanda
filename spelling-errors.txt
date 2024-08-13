@@ -1,12 +1,13 @@
 absoltely
 animi
 antiqua
-appelatam
+appellatam
 aptam
 aptatam
 ascenders
 Bashkir
 caitalis
+castris
 causa
 communem
 corde
@@ -39,6 +40,7 @@ grm
 haberet
 haberis
 hac
+HHac
 HSE
 igitur
 illic
@@ -84,12 +86,14 @@ paginas
 pangram
 pangrams
 piloque
+prodesse
 proponuntur
 quae
 quaeque
 quam
 quidem
 Romanas
+Romanis
 saeculo
 scriptura
 scripturam
@@ -113,7 +117,6 @@ TTF
 typographicum
 Udmurt
 usum
-utiles
 utuntur
 vero
 Vindolanda
