@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-14T02:24:50+00:00" />
-  <meta property="article:modified_time" content="2024-08-14T02:24:50+00:00" />
+  <meta name="dc.modified" content="2024-08-14T02:34:39+00:00" />
+  <meta property="article:modified_time" content="2024-08-14T02:34:39+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/332e78aef3e7c9129252a14c2c014ffee9807ab6/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/332e78aef3e7c9129252a14c2c014ffee9807ab6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/332e78aef3e7c9129252a14c2c014ffee9807ab6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/332e78aef3e7c9129252a14c2c014ffee9807ab6/))
 was automatically generated
-from [nevmenandr/vindolanda@3c5d003](https://github.com/nevmenandr/vindolanda/tree/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612)
+from [nevmenandr/vindolanda@332e78a](https://github.com/nevmenandr/vindolanda/tree/332e78aef3e7c9129252a14c2c014ffee9807ab6)
 on August 14, 2024.
 </em></small>
 
@@ -144,7 +144,7 @@ They also write about the Roman font:
 > Its basic and original form is the capital font (lat. *caitalis* -- large, main, solid), also called majusculus (lat. *majusculis* -- somewhat larger), because it consists exclusively of capital (large) letters. An inscription made by majusculus is placed strictly between two horizontals, without a single line going beyond the line formed by them. 
 > Majuscule is, first of all, the font of solemn writings carved on columns, triumphal arches and walls. (...) Its technology (...) is careful slow carving in a stone slab along a predetermined contour. (...) He is clear, harmonious and stately. (...) Another variant of the handwritten Latin writing was cursive (lat. currêre -- to run; running, means slanted). In cursive, letters were simplified, joined together, and lost some details. Quickness was achieved at the cost of loss: clarity, clarity, beauty suffered. Therefore, italics (in its various forms) was used only for business records and letters.
 
-Vindolanda returns clarity and precision of Greek writings to Roman cursive.
+Vindolanda returns clarity and precision of Greek writings to Roman cursive [@isbn:0521364736].
 
 Thus, it is not necessary to appeal to modernity to justify the need for this typeface.
 

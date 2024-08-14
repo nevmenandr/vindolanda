@@ -100,7 +100,7 @@ scripturam
 secundum
 semper
 servato
-severa
+Severa
 speciem
 speramus
 suam
