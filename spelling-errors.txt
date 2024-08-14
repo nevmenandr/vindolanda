@@ -39,7 +39,7 @@ gratuitae
 grm
 haberet
 haberis
-Hac
+hac
 HSE
 igitur
 illic
