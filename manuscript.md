@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-14T02:16:42+00:00" />
-  <meta property="article:modified_time" content="2024-08-14T02:16:42+00:00" />
+  <meta name="dc.modified" content="2024-08-14T02:24:50+00:00" />
+  <meta property="article:modified_time" content="2024-08-14T02:24:50+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/d29ed781add2636effc3b85ae6bafe462999e9bc/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/d29ed781add2636effc3b85ae6bafe462999e9bc/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/d29ed781add2636effc3b85ae6bafe462999e9bc/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/d29ed781add2636effc3b85ae6bafe462999e9bc/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612/))
 was automatically generated
-from [nevmenandr/vindolanda@d29ed78](https://github.com/nevmenandr/vindolanda/tree/d29ed781add2636effc3b85ae6bafe462999e9bc)
+from [nevmenandr/vindolanda@3c5d003](https://github.com/nevmenandr/vindolanda/tree/3c5d00355bbc7433d0eb3ea4a5fc3422e79d4612)
 on August 14, 2024.
 </em></small>
 
@@ -225,7 +225,7 @@ Letters `U`{.grey} and `V`{.grey} are the same.
 **Letters from tablet and from the fontface.** 3/3
 ](./images/letters3.png){#fig:letters3}
 
-The letters `Z`{.grey} and `Y`{.grey} are very rare, I have not been able to find them on Vindolanda tablets. But I was able to find one use of the letter `X`{.grey} @fig:x. They all came into the Latin alphabet from the Greek alphabet, and letters in Vindolanda did not need scholarly Greek words. Letters were used to solve everyday problems there. 
+The letters `Z`{.grey} and `Y`{.grey} are very rare, I have not been able to find them on Vindolanda tablets [@doi:10.1017/S0068113X10000176]. But I was able to find one use of the letter `X`{.grey} @fig:x. They all came into the Latin alphabet from the Greek alphabet, and letters in Vindolanda did not need scholarly Greek words. Letters were used to solve everyday problems there [@doi:10.1016/j.daach.2023.e00267]. 
 
 ![
 **Letter X from tablet and from the fontface.**
