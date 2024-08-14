@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-14T02:38:47+00:00" />
-  <meta property="article:modified_time" content="2024-08-14T02:38:47+00:00" />
+  <meta name="dc.modified" content="2024-08-14T04:49:21+00:00" />
+  <meta property="article:modified_time" content="2024-08-14T04:49:21+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/39fab49deb0c401e5a83652ebd16c0ff66f7091b/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/39fab49deb0c401e5a83652ebd16c0ff66f7091b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/39fab49deb0c401e5a83652ebd16c0ff66f7091b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,9 +64,9 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/39fab49deb0c401e5a83652ebd16c0ff66f7091b/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/))
 was automatically generated
-from [nevmenandr/vindolanda@39fab49](https://github.com/nevmenandr/vindolanda/tree/39fab49deb0c401e5a83652ebd16c0ff66f7091b)
+from [nevmenandr/vindolanda@6e19e16](https://github.com/nevmenandr/vindolanda/tree/6e19e160450cb8c6a0a374f272372a5a6b8a8628)
 on August 14, 2024.
 </em></small>
 
@@ -148,7 +148,7 @@ Vindolanda returns clarity and precision of Greek writings to Roman cursive [@is
 
 Thus, it is not necessary to appeal to modernity to justify the need for this typeface.
 
-A very similar writings could be found in other places, i.e. in Pompey @fig:pompey.
+A very similar writings could be found in other places, e.g. in Pompey @fig:pompey.
 
 ![
 **Sample text of Roman cursive not from Vindolanda.**

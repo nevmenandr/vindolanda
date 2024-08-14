@@ -39,7 +39,7 @@ gratuitae
 grm
 haberet
 haberis
-hac
+Hac
 HSE
 igitur
 illic
@@ -49,7 +49,7 @@ iuvenis
 iuxta
 Kalendis
 Karus
-kerning
+Kerning
 Kuznetsov
 Latinam
 Lepidina
@@ -100,7 +100,7 @@ scripturam
 secundum
 semper
 servato
-Severa
+severa
 speciem
 speramus
 suam
