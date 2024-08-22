@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-14T04:49:21+00:00" />
-  <meta property="article:modified_time" content="2024-08-14T04:49:21+00:00" />
+  <meta name="dc.modified" content="2024-08-22T19:04:29+00:00" />
+  <meta property="article:modified_time" content="2024-08-22T19:04:29+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/51c46fe6f2ce422356b904bc802ed9c962cc92ec/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/51c46fe6f2ce422356b904bc802ed9c962cc92ec/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/51c46fe6f2ce422356b904bc802ed9c962cc92ec/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,10 +64,10 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/6e19e160450cb8c6a0a374f272372a5a6b8a8628/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/51c46fe6f2ce422356b904bc802ed9c962cc92ec/))
 was automatically generated
-from [nevmenandr/vindolanda@6e19e16](https://github.com/nevmenandr/vindolanda/tree/6e19e160450cb8c6a0a374f272372a5a6b8a8628)
-on August 14, 2024.
+from [nevmenandr/vindolanda@51c46fe](https://github.com/nevmenandr/vindolanda/tree/51c46fe6f2ce422356b904bc802ed9c962cc92ec)
+on August 22, 2024.
 </em></small>
 
 Published: August 11, 2024
@@ -113,7 +113,7 @@ Vindolanda is an open-source and free font that reproduces the letterforms in La
 
 ## Introduction
 
-This document presents a typeface that reproduces the appearance of the Roman cursive in its ancient version [@doi:10.1093/oxfordhb/9780195336948.013.36]. It is modeled on the letters read on wooden tablets found during excavations in `Vindolanda`{.lightblue} [@isbn:9781873136874]:
+This document presents a typeface that reproduces the appearance of the Roman cursive [@isbn:9783343001347] in its ancient version [@doi:10.1093/oxfordhb/9780195336948.013.36]. It is modeled on the letters read on wooden tablets found during excavations in `Vindolanda`{.lightblue} [@isbn:9781873136874]:
 
 > The anaerobic conditions at the Roman fort of Vindolanda, close to Hadrian's Wall in northern Britain, have famously preserved a variety of finds made of organic materials, including wooden writing tablets and a pair of leather boxing gloves. 
 [@doi:10.15184/aqy.2023.11]
