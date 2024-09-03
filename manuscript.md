@@ -22,8 +22,8 @@ header-includes: |
   <meta name="dc.date" content="2024-08-11" />
   <meta name="citation_publication_date" content="2024-08-11" />
   <meta property="article:published_time" content="2024-08-11" />
-  <meta name="dc.modified" content="2024-08-22T19:18:07+00:00" />
-  <meta property="article:modified_time" content="2024-08-22T19:18:07+00:00" />
+  <meta name="dc.modified" content="2024-09-03T21:07:33+00:00" />
+  <meta property="article:modified_time" content="2024-09-03T21:07:33+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -40,9 +40,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://nevmenandr.github.io/vindolanda/" />
   <meta name="citation_pdf_url" content="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://nevmenandr.github.io/vindolanda/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/b0d59224a1b8e1a748d1642f5abc2c2452bbb1fe/" />
-  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b0d59224a1b8e1a748d1642f5abc2c2452bbb1fe/" />
-  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/b0d59224a1b8e1a748d1642f5abc2c2452bbb1fe/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://nevmenandr.github.io/vindolanda/v/e3b34cd3369d43bb927d46d36adbd3952d940c99/" />
+  <meta name="manubot_html_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/e3b34cd3369d43bb927d46d36adbd3952d940c99/" />
+  <meta name="manubot_pdf_url_versioned" content="https://nevmenandr.github.io/vindolanda/v/e3b34cd3369d43bb927d46d36adbd3952d940c99/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -64,10 +64,10 @@ _A DOI for this manuscript is <https://doi.org/10.5281/zenodo.13293622>_.
 
 <small><em>
 This manuscript
-([permalink](https://nevmenandr.github.io/vindolanda/v/b0d59224a1b8e1a748d1642f5abc2c2452bbb1fe/))
+([permalink](https://nevmenandr.github.io/vindolanda/v/e3b34cd3369d43bb927d46d36adbd3952d940c99/))
 was automatically generated
-from [nevmenandr/vindolanda@b0d5922](https://github.com/nevmenandr/vindolanda/tree/b0d59224a1b8e1a748d1642f5abc2c2452bbb1fe)
-on August 22, 2024.
+from [nevmenandr/vindolanda@e3b34cd](https://github.com/nevmenandr/vindolanda/tree/e3b34cd3369d43bb927d46d36adbd3952d940c99)
+on September 3, 2024.
 </em></small>
 
 Published: August 11, 2024
@@ -163,7 +163,7 @@ The font can be used for more authentic reproduction in books and on websites of
 
 [
 <i class="fas fa-scroll fa-lg"></i> **Lingua Latina**<br>
-Hac in pagina litterae gratuitae ad usum communem proponuntur, quae nomen suum ‘Vindolanda’ a castris Romanis in Britannia sumpserunt. Nam illic saeculo XX multae tabellae ligneae ad lucem erutae sunt. Ex his quidem tabellis depromtam speciem (nunc temporis ‘litteras cursivas Romanas’ appellatam) et nostris litteris dedimus, ita vero aptatam ut suam quaeque formam littera semper eandem haberet secundum morem typographicum, nullo discrimine inter litteras maiusculas et munisculas servato. Denique, cum Latinam tum Cyrillicam scripturam litterae nostrae continent, ad omnes linguas aptam quae scriptura Cyrllica utuntur. Nos igitur ex imo corde speramus has litteras animi causa effectas ad discipulos instituendos iuxta ac ad paginas ornandas prodesse. 
+Hac in pagina litterae gratuitae ad usum communem proponuntur, quae nomen suum ‘Vindolanda’ a castris Romanis in Britannia sumpserunt. Nam illic saeculo XX multae tabellae ligneae ad lucem erutae sunt. Ex his quidem tabellis depromtam speciem (nunc temporis ‘litteras cursivas Romanas’ appellatam) et nostris litteris dedimus, ita vero aptatam ut suam quaeque formam littera semper eandem haberet secundum morem typographicum, nullo discrimine inter litteras maiusculas et minusculas servato. Denique, cum Latinam tum Cyrillicam scripturam litterae nostrae continent, ad omnes linguas aptam quae scriptura Cyrillica utuntur. Nos igitur ex imo corde speramus has litteras animi causa effectas ad discipulos instituendos iuxta ac ad paginas ornandas prodesse. 
 ]{.banner .lightgrey}
 
 ## The shape of the letters

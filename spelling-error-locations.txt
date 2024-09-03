@@ -33,8 +33,8 @@ content/02.vindolanda-body.md:56:causa
 content/02.vindolanda-body.md:56:communem
 content/02.vindolanda-body.md:56:corde
 content/02.vindolanda-body.md:56:cursivas
+content/02.vindolanda-body.md:56:Cyrillica
 content/02.vindolanda-body.md:56:Cyrillicam
-content/02.vindolanda-body.md:56:Cyrllica
 content/02.vindolanda-body.md:56:dedimus
 content/02.vindolanda-body.md:56:Denique
 content/02.vindolanda-body.md:56:depromtam
@@ -64,9 +64,9 @@ content/02.vindolanda-body.md:56:litteras
 content/02.vindolanda-body.md:56:litteris
 content/02.vindolanda-body.md:56:lucem
 content/02.vindolanda-body.md:56:maiusculas
+content/02.vindolanda-body.md:56:minusculas
 content/02.vindolanda-body.md:56:morem
 content/02.vindolanda-body.md:56:multae
-content/02.vindolanda-body.md:56:munisculas
 content/02.vindolanda-body.md:56:nomen
 content/02.vindolanda-body.md:56:nostrae
 content/02.vindolanda-body.md:56:nostris

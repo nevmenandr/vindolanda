@@ -14,8 +14,8 @@ corde
 currêre
 cursivas
 cyr
+Cyrillica
 Cyrillicam
-Cyrllica
 datur
 dedimus
 Denique
@@ -68,9 +68,9 @@ Majuscule
 majusculis
 majusculus
 Mariia
+minusculas
 morem
 multae
-munisculas
 nevmenandr
 nomen
 nostrae
@@ -100,7 +100,7 @@ scripturam
 secundum
 semper
 servato
-severa
+Severa
 speciem
 speramus
 suam
